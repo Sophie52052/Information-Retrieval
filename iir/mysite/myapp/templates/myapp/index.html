@@ -1,0 +1,81 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+  <!-- Image and text -->
+  <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+      <!-- Brand/logo -->
+      <a class="navbar-brand" href="../">IIR_COURSE</a>
+  <!-- Links -->
+  <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="../">SEARCH</a>
+      </li>
+      <!-- <li class="nav-item">
+        <a class="nav-link" href="#">Link 2</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Link 3</a>
+      </li> -->
+    </ul>
+  </nav>    
+
+ <br>
+  <div class="row">
+    <div class="col-sm-6">
+
+      <form class="form-group" action="up/" method="post" enctype="multipart/form-data">
+        <div>
+            {% load static %} 
+          <img src="{% static 'xml.gif' %}" alt="XML" class="mx-auto d-block">
+
+          <div class="text-center">
+            Select XML file to upload:
+          </div>
+          <div>
+            <!-- <h5 class="card-title">Upload File</h5> -->
+            {% csrf_token %}
+            <input class="form-control center" type="file" name="fileToUpload" id="fileToUpload">
+            <br><input class="mx-auto d-block btn btn-primary" type="submit" value="Upload" name="submit">
+
+          </div>
+
+
+        </div>
+      </form>
+    </div>
+    <div class="col-sm-6">
+
+      <form class="form-group" action="up/" method="post" enctype="multipart/form-data">
+        <div>
+            {% load static %}
+          <img src="{% static 'json.gif' %}" alt="JSON" class="mx-auto d-block">
+
+          <div class="text-center">
+            Select JSON file to upload:
+          </div>
+          <div>
+            <!-- <h5 class="card-title">Upload File</h5> -->
+            {% csrf_token %}
+            <input class="form-control center" type="file" name="fileToUpload" id="fileToUpload">
+            <br><input class="mx-auto d-block btn btn-primary" type="submit" value="Upload" name="submit">
+
+          </div>
+
+
+        </div>
+      </form>
+    </div>
+  </div>
+
+
+</body>
+
+</html>

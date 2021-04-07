@@ -1,0 +1,419 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31760822</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1475-6374</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of enzyme inhibition and medicinal chemistry</Title>
+                <ISOAbbreviation>J Enzyme Inhib Med Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Novel tacrine-benzofuran hybrids as potential multi-target drug candidates for the treatment of Alzheimer's Disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>211-226</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/14756366.2019.1689237</ELocationID>
+            <Abstract>
+                <AbstractText>Pursuing the widespread interest on multi-target drugs to combat Alzheimer´s disease (AD), a new series of hybrids was designed and developed based on the repositioning of the well-known acetylcholinesterase (AChE) inhibitor, tacrine (TAC), by its coupling to benzofuran (BF) derivatives. The BF framework aims to endow the conjugate molecules with ability for inhibition of AChE (bimodal way) and of amyloid-beta peptide aggregation, besides providing metal (Fe, Cu) chelating ability and concomitant extra anti-oxidant activity, for the hybrids with hydroxyl substitution. The new TAC-BF conjugates showed very good activity for AChE inhibition (sub-micromolar range) and good capacity for the inhibition of self- and Cu-mediated Aβ aggregation, with dependence on the linker size and substituent groups of each main moiety. Neuroprotective effects were also found for the compounds through viability assays of neuroblastoma cells, after Aβ<sub>1-42</sub> induced toxicity. Structure-activity relationship analysis provides insights on the best structural parameters, to take in consideration for future studies in view of potential applications in AD therapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fancellu</LastName>
+                    <ForeName>Gaia</ForeName>
+                    <Initials>G</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9705-3779</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Química Estrutural, Instituto Superior Técnico, Universidade de Lisboa, Lisboa, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Earth Sciences, University of Pisa, Pisa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chand</LastName>
+                    <ForeName>Karam</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7691-4392</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Química Estrutural, Instituto Superior Técnico, Universidade de Lisboa, Lisboa, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tomás</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9000-0535</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Química Estrutural, Instituto Superior Técnico, Universidade de Lisboa, Lisboa, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Orlandini</LastName>
+                    <ForeName>Elisabetta</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3398-2787</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Earth Sciences, University of Pisa, Pisa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Piemontese</LastName>
+                    <ForeName>Luca</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7980-5818</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Dipartimento di Farmacia-Scienze del Farmaco, Università degli Studi di Bari &quot;Aldo Moro&quot;, Bari, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Silva</LastName>
+                    <ForeName>Diana F</ForeName>
+                    <Initials>DF</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0612-2645</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>CNC-Center for Neuroscience and Cell Biology, Universidade de Coimbra, Coimbra, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cardoso</LastName>
+                    <ForeName>Sandra M</ForeName>
+                    <Initials>SM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2199-0555</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>CNC-Center for Neuroscience and Cell Biology, Universidade de Coimbra, Coimbra, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Molecular and Cell Biology, Faculty of Medicine, Universidade de Coimbra, Coimbra, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chaves</LastName>
+                    <ForeName>Sílvia</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8554-4992</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Química Estrutural, Instituto Superior Técnico, Universidade de Lisboa, Lisboa, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santos</LastName>
+                    <ForeName>M Amélia</ForeName>
+                    <Initials>MA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4069-9368</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Química Estrutural, Instituto Superior Técnico, Universidade de Lisboa, Lisboa, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Enzyme Inhib Med Chem</MedlineTA>
+            <NlmUniqueID>101150203</NlmUniqueID>
+            <ISSNLinking>1475-6366</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001572">Benzofurans</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002800">Cholinesterase Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018696">Neuroprotective Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4VX7YNB537</RegistryNumber>
+                <NameOfSubstance UI="D013619">Tacrine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.1.7</RegistryNumber>
+                <NameOfSubstance UI="D000110">Acetylcholinesterase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>LK6946W774</RegistryNumber>
+                <NameOfSubstance UI="C105430">benzofuran</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000110" MajorTopicYN="N">Acetylcholinesterase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000544" MajorTopicYN="N">Alzheimer Disease</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001572" MajorTopicYN="N">Benzofurans</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002800" MajorTopicYN="N">Cholinesterase Inhibitors</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="N">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004305" MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004593" MajorTopicYN="N">Electrophorus</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015394" MajorTopicYN="N">Molecular Structure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018696" MajorTopicYN="N">Neuroprotective Agents</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="N">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013329" MajorTopicYN="N">Structure-Activity Relationship</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013619" MajorTopicYN="N">Tacrine</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">AChE inhibitors</Keyword>
+            <Keyword MajorTopicYN="N">Alzheimer’s disease</Keyword>
+            <Keyword MajorTopicYN="N">metal chelators</Keyword>
+            <Keyword MajorTopicYN="N">multi-target drugs</Keyword>
+            <Keyword MajorTopicYN="N">tacrine-benzofuran hybrids</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31760822</ArticleId>
+            <ArticleId IdType="doi">10.1080/14756366.2019.1689237</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">31705489</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0065-2598</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>1192</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Advances in experimental medicine and biology</Title>
+                <ISOAbbreviation>Adv. Exp. Med. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genetic Markers of Alzheimer's Disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>27-52</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/978-981-32-9721-0_3</ELocationID>
+            <Abstract>
+                <AbstractText>Alzheimer's disease is a complex and heterogeneous, severe neurodegenerative disorder and the predominant form of dementia, characterized by cognitive disturbances, behavioral and psychotic symptoms, progressive cognitive decline, disorientation, behavioral changes, and death. Genetic background of Alzheimer's disease differs between early-onset familial Alzheimer's disease, other cases of early-onset Alzheimer's disease, and late-onset Alzheimer's disease. Rare cases of early-onset familial Alzheimer's diseases are caused by high-penetrant mutations in genes coding for amyloid precursor protein, presenilin 1, and presenilin 2. Late-onset Alzheimer's disease is multifactorial and associated with many different genetic risk loci (&gt;20), with the apolipoprotein E ε4 allele being a major genetic risk factor for late-onset Alzheimer's disease. Genetic and genomic studies offer insight into many additional genetic risk loci involved in the genetically complex nature of late-onset Alzheimer's disease. This review highlights the contributions of individual loci to the pathogenesis of Alzheimer's disease and suggests that their exact contribution is still not clear. Therefore, the use of genetic markers of Alzheimer's disease, for monitoring development, time course, treatment response, and prognosis of Alzheimer's disease, is still far away from the clinical application, because the contribution of genetic variations to the relative risk of developing Alzheimer's disease is limited. In the light of prediction and prevention of Alzheimer's disease, a novel approach could be found in the form of additive genetic risk scores, which combine additive effects of numerous susceptibility loci.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nikolac Perkovic</LastName>
+                    <ForeName>Matea</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Molecular Medicine, Rudjer Boskovic Institute, Bijenicka 54, Zagreb, 10000, Croatia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pivac</LastName>
+                    <ForeName>Nela</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Molecular Medicine, Rudjer Boskovic Institute, Bijenicka 54, Zagreb, 10000, Croatia. npivac@irb.hr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Adv Exp Med Biol</MedlineTA>
+            <NlmUniqueID>0121103</NlmUniqueID>
+            <ISSNLinking>0065-2598</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016564">Amyloid beta-Protein Precursor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001057">Apolipoproteins E</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005819">Genetic Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D053764">Presenilin-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D053766">Presenilin-2</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000544" MajorTopicYN="N">Alzheimer Disease</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016564" MajorTopicYN="N">Amyloid beta-Protein Precursor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001057" MajorTopicYN="N">Apolipoproteins E</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005819" MajorTopicYN="N">Genetic Markers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020022" MajorTopicYN="Y">Genetic Predisposition to Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053764" MajorTopicYN="N">Presenilin-1</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053766" MajorTopicYN="N">Presenilin-2</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Alzheimer’s disease</Keyword>
+            <Keyword MajorTopicYN="N">GWAS</Keyword>
+            <Keyword MajorTopicYN="N">Genetics</Keyword>
+            <Keyword MajorTopicYN="N">Late-onset</Keyword>
+            <Keyword MajorTopicYN="N">Markers</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31705489</ArticleId>
+            <ArticleId IdType="doi">10.1007/978-981-32-9721-0_3</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+
+</PubmedArticleSet>

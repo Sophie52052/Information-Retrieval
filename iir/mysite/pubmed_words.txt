@@ -1,0 +1,1827 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet SYSTEM "http://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31611606</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2045-2322</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Oct</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Scientific reports</Title>
+                <ISOAbbreviation>Sci Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>In vitro inhibition of human red blood cell acetylcholinesterase (AChE) by temephos-oxidized products.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>14758</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41598-019-51261-2</ELocationID>
+            <Abstract>
+                <AbstractText>Temephos (Tem) is an organophosphorus pesticide widely used to kill and prevent the growth of the main vectors for the transmission of dengue, zika, and chikungunya viruses. In chlorinated water, Tem is oxidized to its dioxon-sulfoxide (Tem-dox-SO), dioxon-sulfone (Tem-dox-SO<sub>2</sub>), and sulfoxide (Tem-SO) derivatives; however, these compounds are not commercially available to be used as standards and in toxicological studies. In the present study, we synthesized and characterized the Tem-oxidation products and the compound 4,4'-sulfinyldiphenol. These compounds were obtained by a simple reaction between Tem or 4,4'-thiodiphenol with sodium hypochlorite or potassium periodate, and were characterized by IR, NMR, and UPLC-HRESIMS. The in vitro evaluation of inhibitory potency of Tem-oxidized products on human red blood cell acetylcholinesterase (RBC AChE) showed that Tem-dox-SO<sub>2</sub> was the most potent inhibitor of human RBC AChE, and its effect was more pronounced than that observed for ethyl-paraoxon, a potent typical inhibitor of AChE. An HPLC-DAD method for the analysis of metabolic products of Tem was developed, which may be useful for monitoring in biological and environmental samples. The ability of Tem-oxidized metabolites to inhibit human RBC AChE suggests that the addition of Tem to chlorinated drinking water could result in an increase in the risk of RBC AChE inhibition after exposure.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Verdín-Betancourt</LastName>
+                    <ForeName>Francisco Alberto</ForeName>
+                    <Initials>FA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Toxicología, Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (Cinvestav-IPN), Col. San Pedro Zacatenco, Ciudad de México, C.P., 07360, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Figueroa</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7004-0591</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Facultad de Química, Universidad Nacional Autónoma de México, Ciudad de México, 04510, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>López-González</LastName>
+                    <ForeName>Ma de Lourdes</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Toxicología, Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (Cinvestav-IPN), Col. San Pedro Zacatenco, Ciudad de México, C.P., 07360, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gómez</LastName>
+                    <ForeName>Elizabeth</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto de Química, Universidad Nacional Autónoma de México, Ciudad de México, 04510, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bernal-Hernández</LastName>
+                    <ForeName>Yael Yvette</ForeName>
+                    <Initials>YY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratorio de Contaminación y Toxicología Ambiental, Universidad Autónoma de Nayarit, Tepic, Nayarit, 63155, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rojas-García</LastName>
+                    <ForeName>Aurora Elizabeth</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratorio de Contaminación y Toxicología Ambiental, Universidad Autónoma de Nayarit, Tepic, Nayarit, 63155, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sierra-Santoyo</LastName>
+                    <ForeName>Adolfo</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Toxicología, Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (Cinvestav-IPN), Col. San Pedro Zacatenco, Ciudad de México, C.P., 07360, Mexico. asierra@cinvestav.mx.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>236564</GrantID>
+                    <Agency>Consejo Nacional de Ciencia y Tecnología (National Council of Science and Technology, Mexico)</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>294303</GrantID>
+                    <Agency>Consejo Nacional de Ciencia y Tecnología (National Council of Science and Technology, Mexico)</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>294303</GrantID>
+                    <Agency>Consejo Nacional de Ciencia y Tecnología (National Council of Science and Technology, Mexico)</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Sci Rep</MedlineTA>
+            <NlmUniqueID>101563288</NlmUniqueID>
+            <ISSNLinking>2045-2322</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31611606</ArticleId>
+            <ArticleId IdType="doi">10.1038/s41598-019-51261-2</ArticleId>
+            <ArticleId IdType="pii">10.1038/s41598-019-51261-2</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31611606</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2045-2322</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Oct</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Scientific reports</Title>
+                <ISOAbbreviation>Sci Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>In vitro inhibition of human red blood cell acetylcholinesterase (AChE) by temephos-oxidized products.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>14758</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41598-019-51261-2</ELocationID>
+            <Abstract>
+                <AbstractText>Temephos (Tem) is an organophosphorus pesticide widely used to kill and prevent the growth of the main vectors for the transmission of dengue, zika, and chikungunya viruses. In chlorinated water, Tem is oxidized to its dioxon-sulfoxide (Tem-dox-SO), dioxon-sulfone (Tem-dox-SO<sub>2</sub>), and sulfoxide (Tem-SO) derivatives; however, these compounds are not commercially available to be used as standards and in toxicological studies. In the present study, we synthesized and characterized the Tem-oxidation products and the compound 4,4'-sulfinyldiphenol. These compounds were obtained by a simple reaction between Tem or 4,4'-thiodiphenol with sodium hypochlorite or potassium periodate, and were characterized by IR, NMR, and UPLC-HRESIMS. The in vitro evaluation of inhibitory potency of Tem-oxidized products on human red blood cell acetylcholinesterase (RBC AChE) showed that Tem-dox-SO<sub>2</sub> was the most potent inhibitor of human RBC AChE, and its effect was more pronounced than that observed for ethyl-paraoxon, a potent typical inhibitor of AChE. An HPLC-DAD method for the analysis of metabolic products of Tem was developed, which may be useful for monitoring in biological and environmental samples. The ability of Tem-oxidized metabolites to inhibit human RBC AChE suggests that the addition of Tem to chlorinated drinking water could result in an increase in the risk of RBC AChE inhibition after exposure.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Verdín-Betancourt</LastName>
+                    <ForeName>Francisco Alberto</ForeName>
+                    <Initials>FA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Toxicología, Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (Cinvestav-IPN), Col. San Pedro Zacatenco, Ciudad de México, C.P., 07360, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Figueroa</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7004-0591</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Facultad de Química, Universidad Nacional Autónoma de México, Ciudad de México, 04510, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>López-González</LastName>
+                    <ForeName>Ma de Lourdes</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Toxicología, Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (Cinvestav-IPN), Col. San Pedro Zacatenco, Ciudad de México, C.P., 07360, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gómez</LastName>
+                    <ForeName>Elizabeth</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto de Química, Universidad Nacional Autónoma de México, Ciudad de México, 04510, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bernal-Hernández</LastName>
+                    <ForeName>Yael Yvette</ForeName>
+                    <Initials>YY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratorio de Contaminación y Toxicología Ambiental, Universidad Autónoma de Nayarit, Tepic, Nayarit, 63155, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rojas-García</LastName>
+                    <ForeName>Aurora Elizabeth</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratorio de Contaminación y Toxicología Ambiental, Universidad Autónoma de Nayarit, Tepic, Nayarit, 63155, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sierra-Santoyo</LastName>
+                    <ForeName>Adolfo</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Toxicología, Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (Cinvestav-IPN), Col. San Pedro Zacatenco, Ciudad de México, C.P., 07360, Mexico. asierra@cinvestav.mx.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>236564</GrantID>
+                    <Agency>Consejo Nacional de Ciencia y Tecnología (National Council of Science and Technology, Mexico)</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>294303</GrantID>
+                    <Agency>Consejo Nacional de Ciencia y Tecnología (National Council of Science and Technology, Mexico)</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>294303</GrantID>
+                    <Agency>Consejo Nacional de Ciencia y Tecnología (National Council of Science and Technology, Mexico)</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Sci Rep</MedlineTA>
+            <NlmUniqueID>101563288</NlmUniqueID>
+            <ISSNLinking>2045-2322</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31611606</ArticleId>
+            <ArticleId IdType="doi">10.1038/s41598-019-51261-2</ArticleId>
+            <ArticleId IdType="pii">10.1038/s41598-019-51261-2</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31561542</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1422-0067</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>19</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Sep</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of molecular sciences</Title>
+                <ISOAbbreviation>Int J Mol Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Discovery of 3-Arylquinoxaline Derivatives as Potential Anti-Dengue Virus Agents.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">E4786</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/ijms20194786</ELocationID>
+            <Abstract>
+                <AbstractText>We designed and synthesized a series of novel 3-arylquinoxaline derivatives and evaluated their biological activities as potential dengue virus (DENV) replication inhibitors. Among them, [3-(4-methoxyphenyl)quinoxalin-2-yl](phenyl)methanol (<b>19a</b>), [6,7-dichloro-3-(4-methoxyphenyl)quinoxalin-2-yl](phenyl)methanol (<b>20a</b>), and (4-methoxyphenyl)(3-phenylquinoxalin-2-yl)methanone (<b>21b</b>) were found to significantly inhibit the DENV RNA expression in Huh-7-DV-Fluc cells with a potency better than that of ribavirin. Compound <b>19a</b> reduced DENV replication in both viral protein and messenger RNA (mRNA) levels in a dose-dependent manner and exhibited no significant cell cytotoxicity. Notably, compound <b>19a</b> exhibited a half maximal effective concentration (EC<sub>50</sub>) value at 1.29 ± 0.74 μM. We further observed that the inhibitory effect of <b>19a</b> on DENV replication was due to suppression of DENV-induced cyclooxygenase-2 (COX-2) expression. Docking studies also showed that <b>19a</b> caused hydrophobic interactions at the active sites with Arg29, Glu31, Tyr116, Leu138, Pro139, Lys454, Arg455, and Gln529. The calculated lowest binding energy between the <b>19a</b> and COX-2 was -9.10 kcal/mol. In conclusion, compound <b>19a</b> might be a potential lead compound for developing an anti-DENV agent.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tseng</LastName>
+                    <ForeName>Chih-Hua</ForeName>
+                    <Initials>CH</Initials>
+                    <Identifier Source="ORCID">0000-0001-7392-7104</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, College of Pharmacy, Kaohsiung Medical University, Kaohsiung 807, Taiwan. chihhua@kmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Fragrance and Cosmetic Science, College of Pharmacy, Kaohsiung Medical University, Kaohsiung 807, Taiwan. chihhua@kmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Drug Development and Value Creation Research Center, Kaohsiung Medical University, Kaohsiung 807, Taiwan. chihhua@kmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Research, Kaohsiung Medical University Hospital, Kaohsiung 807, Taiwan. chihhua@kmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Kaohsiung Municipal Ta-Tung Hospital, Kaohsiung 801, Taiwan. chihhua@kmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Cheng-Ruei</ForeName>
+                    <Initials>CR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, College of Pharmacy, Kaohsiung Medical University, Kaohsiung 807, Taiwan. st88036942017@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Kai-Wei</ForeName>
+                    <Initials>KW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, College of Pharmacy, Kaohsiung Medical University, Kaohsiung 807, Taiwan. dadaking1107@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Int J Mol Sci</MedlineTA>
+            <NlmUniqueID>101092791</NlmUniqueID>
+            <ISSNLinking>1422-0067</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">3-arylquinoxaline</Keyword>
+            <Keyword MajorTopicYN="N">cyclooxygenase-2</Keyword>
+            <Keyword MajorTopicYN="N">dengue virus</Keyword>
+            <Keyword MajorTopicYN="N">ribavirin</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31561542</ArticleId>
+            <ArticleId IdType="pii">ijms20194786</ArticleId>
+            <ArticleId IdType="doi">10.3390/ijms20194786</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31560972</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-1208</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Sep</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Microbial pathogenesis</Title>
+                <ISOAbbreviation>Microb. Pathog.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mycophenolic acid (MPA) modulates host cellular autophagy progression in sub genomic dengue virus-2 replicon cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>103762</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0882-4010(19)30756-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.micpath.2019.103762</ELocationID>
+            <Abstract>
+                <AbstractText>Cellular autophagy (Macrophagy) is a self-degradative process, executed through the network of autophagy associated genes (ATGs) encoded proteins. Both in vitro and in vivo studies suggest that dengue virus (DENV) induces autophagy and supports the viral genome replication and translation. Therefore, the cellular autophagy induced by dengue virus can be a good target for antiviral drug development. The action of mycophenolic acid (MPA), a specific inhibitor of DENV replication, was investigated in the stable BHK-21/DENV2 replicon cells. The inhibition was mediated by enhanced degradation of autophagic substrates in stable BHK-21/DENV2 replicon cells as evidenced by a decrease in lapidated LC3 (LC3II) and p62 expression in the presence of MPA. In contrast, the results indicated that four gene sets, namely Trans membrane protein 74 (TMEM74), Unc-51-like kinase 2 (ULK2), Cathepsin D (CTSD) and Estrogen receptor 1 (ESR1) were upregulated in stable BHK-21/DENV2 replicon cells, due to the sustained dynamic replication of DENV2 genome. These ATGs involved in the pre-autophagosomal structure (PAS) formation, were suppressed in the presence MPA. Instead, MPA induced the expression of different set of autophagy genes such as ATG4, AKT1, APP, ATG16L1, ATG16L2, B2M and HPRT1. An enzyme involved in the nucleotide salvage pathway, HPRT1, was highly expressed in the presence of MPA. The study shows that DENV2 replication is dependent on PAS formation and is inhibited in the presence of MPA by enhancing the degradation of autophagic substrates and suppression of PAS formation. This study provides impetus in designing MPA analogues to effectively inhibit dengue viral replication.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Manchala</LastName>
+                    <ForeName>Nageswar Reddy</ForeName>
+                    <Initials>NR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, School of Biological Sciences, Central University of Kerala, Tejaswini Hills, Periye, 671320, Kerala, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dungdung</LastName>
+                    <ForeName>Ranjeet</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, School of Biological Sciences, Central University of Kerala, Tejaswini Hills, Periye, 671320, Kerala, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trivedi</LastName>
+                    <ForeName>Pankaj</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Medicine, Sapienza University, 00161, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Unniyampurath</LastName>
+                    <ForeName>Unnikrishnan</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Program on Emerging Infectious Diseases, Duke-NUS Medical School, 8 College Road, Singapore, 169857.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pilankatta</LastName>
+                    <ForeName>Rajendra</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, School of Biological Sciences, Central University of Kerala, Tejaswini Hills, Periye, 671320, Kerala, India. Electronic address: praj74@cukerala.ac.in.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Microb Pathog</MedlineTA>
+            <NlmUniqueID>8606191</NlmUniqueID>
+            <ISSNLinking>0882-4010</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Autophagy</Keyword>
+            <Keyword MajorTopicYN="N">Dengue</Keyword>
+            <Keyword MajorTopicYN="N">LC3 II</Keyword>
+            <Keyword MajorTopicYN="N">MPA</Keyword>
+            <Keyword MajorTopicYN="N">Replication</Keyword>
+            <Keyword MajorTopicYN="N">Replicon</Keyword>
+            <Keyword MajorTopicYN="N">Viruses</Keyword>
+            <Keyword MajorTopicYN="N">p62</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31560972</ArticleId>
+            <ArticleId IdType="pii">S0882-4010(19)30756-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.micpath.2019.103762</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31559967</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-4457</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>19</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Lancet. Infectious diseases</Title>
+                <ISOAbbreviation>Lancet Infect Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Emergence of the Asian lineage of Zika virus in Angola: an outbreak investigation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1138-1147</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1473-3099(19)30293-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/S1473-3099(19)30293-2</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Zika virus infections and suspected microcephaly cases have been reported in Angola since late 2016, but no data are available about the origins, epidemiology, and diversity of the virus. We aimed to investigate the emergence and circulation of Zika virus in Angola.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Diagnostic samples collected by the Angolan Ministry of Health as part of routine arboviral surveillance were tested by real-time reverse transcription PCR by the Instituto Nacional de Investigação em Saúde (Ministry of Health, Luanda, Angola). To identify further samples positive for Zika virus and appropriate for genomic sequencing, we also tested samples from a 2017 study of people with HIV in Luanda. Portable sequencing was used to generate Angolan Zika virus genome sequences from three people positive for Zika virus infection by real-time reverse transcription PCR, including one neonate with microcephaly. Genetic and mobility data were analysed to investigate the date of introduction and geographical origin of Zika virus in Angola. Brain CT and MRI, and serological assays were done on a child with microcephaly to confirm microcephaly and assess previous Zika virus infection.</AbstractText>
+                <AbstractText Label="FINDINGS" NlmCategory="RESULTS">Serum samples from 54 people with suspected acute Zika virus infection, 76 infants with suspected microcephaly, 24 mothers of infants with suspected microcephaly, 336 patients with suspected dengue virus or chikungunya virus infection, and 349 samples from the HIV study were tested by real-time reverse transcription PCR. Four cases identified between December, 2016, and June, 2017, tested positive for Zika virus. Analyses of viral genomic and human mobility data suggest that Zika virus was probably introduced to Angola from Brazil between July, 2015, and June, 2016. This introduction probably initiated local circulation of Zika virus in Angola that continued until at least June, 2017. The infant with microcephaly in whom CT and MRI were done had brain abnormalities consistent with congenital Zika syndrome and serological evidence for Zika virus infection.</AbstractText>
+                <AbstractText Label="INTERPRETATION" NlmCategory="CONCLUSIONS">Our analyses show that autochthonous transmission of the Asian lineage of Zika virus has taken place in Africa. Zika virus surveillance and surveillance of associated cases of microcephaly throughout the continent is crucial.</AbstractText>
+                <AbstractText Label="FUNDING" NlmCategory="BACKGROUND">Royal Society, Wellcome Trust, Global Challenges Research Fund (UK Research and Innovation), Africa Oxford, John Fell Fund, Oxford Martin School, European Research Council, Departamento de Ciência e Tecnologia/Ministério da Saúde/National Council for Scientific and Technological Development, and Ministério da Educação/Coordenação de Aperfeicoamento de Pessoal de Nível Superior.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hill</LastName>
+                    <ForeName>Sarah C</ForeName>
+                    <Initials>SC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vasconcelos</LastName>
+                    <ForeName>Jocelyne</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Nacional de Investigação em Saúde, Ministry of Health, Luanda, Angola.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neto</LastName>
+                    <ForeName>Zoraima</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Nacional de Investigação em Saúde, Ministry of Health, Luanda, Angola.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jandondo</LastName>
+                    <ForeName>Domingos</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Nacional de Investigação em Saúde, Ministry of Health, Luanda, Angola.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zé-Zé</LastName>
+                    <ForeName>Líbia</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Nacional de Saúde Doutor Ricardo Jorge, Águas de Moura, Portugal; University of Lisboa, Faculty of Sciences, BioISI-Biosystems &amp; Integrative Sciences Institute, Lisbon, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aguiar</LastName>
+                    <ForeName>Renato Santana</ForeName>
+                    <Initials>RS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Genética, Instituto de Biologia, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil; Departamento de Genética, Ecologia e Evolução, Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xavier</LastName>
+                    <ForeName>Joilson</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Genética, Ecologia e Evolução, Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thézé</LastName>
+                    <ForeName>Julien</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mirandela</LastName>
+                    <ForeName>Marinela</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Nacional de Investigação em Saúde, Ministry of Health, Luanda, Angola.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Micolo Cândido</LastName>
+                    <ForeName>Ana Luísa</ForeName>
+                    <Initials>AL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Nacional de Investigação em Saúde, Ministry of Health, Luanda, Angola.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vaz</LastName>
+                    <ForeName>Filipa</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Nacional de Investigação em Saúde, Ministry of Health, Luanda, Angola.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sebastião</LastName>
+                    <ForeName>Cruz Dos Santos</ForeName>
+                    <Initials>CDS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Nacional de Investigação em Saúde, Ministry of Health, Luanda, Angola; Instituto Superior de Ciências da Saúde, Universidade Agostinho Neto, Luanda, Angola.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Chieh-Hsi</ForeName>
+                    <Initials>CH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Statistics, University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kraemer</LastName>
+                    <ForeName>Moritz U G</ForeName>
+                    <Initials>MUG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, University of Oxford, Oxford, UK; Computational Epidemiology Lab, Boston Children's Hospital, Boston, MA, USA; Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Melo</LastName>
+                    <ForeName>Adriana</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto de Pesquisa Professor Joaquim Amorim Neto, Campina Grande, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schamber-Reis</LastName>
+                    <ForeName>Bruno L F</ForeName>
+                    <Initials>BLF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Human Genetics, Centro Universitário Unifacisa, Campina Grande, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Azevedo</LastName>
+                    <ForeName>Girlene S</ForeName>
+                    <Initials>GS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto de Pesquisa Professor Joaquim Amorim Neto, Campina Grande, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tanuri</LastName>
+                    <ForeName>Amilcar</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Genética, Instituto de Biologia, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Higa</LastName>
+                    <ForeName>Luiza M</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Genética, Instituto de Biologia, Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clemente</LastName>
+                    <ForeName>Carina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cligest Clinic, Luanda, Angola.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>da Silva</LastName>
+                    <ForeName>Sara Pereira</ForeName>
+                    <Initials>SP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cligest Clinic, Luanda, Angola.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>da Silva Candido</LastName>
+                    <ForeName>Darlan</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Claro</LastName>
+                    <ForeName>Ingra M</ForeName>
+                    <Initials>IM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto de Medicina Tropical e Faculdade de Medicina da Universidade de São Paulo, São Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Quibuco</LastName>
+                    <ForeName>Domingos</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Pediátrico David Bernardino, Luanda, Angola.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Domingos</LastName>
+                    <ForeName>Cristóvão</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Nacional de Luta Contra SIDA, Luanda, Angola.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pocongo</LastName>
+                    <ForeName>Bárbara</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Nacional de Luta Contra SIDA, Luanda, Angola.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Watts</LastName>
+                    <ForeName>Alexander G</ForeName>
+                    <Initials>AG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Li Ka Shing Knowledge Institute, St Michael's Hospital, Toronto, ON, Canada; BlueDot, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>Kamran</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Li Ka Shing Knowledge Institute, St Michael's Hospital, Toronto, ON, Canada; BlueDot, Toronto, ON, Canada; Department of Medicine, University of Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alcantara</LastName>
+                    <ForeName>Luiz Carlos Junior</ForeName>
+                    <Initials>LCJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Genética, Ecologia e Evolução, Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil; Laboratório de Flavivirus, IOC-Fundação Oswaldo Cruz/MS, Rio de Janeiro, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sabino</LastName>
+                    <ForeName>Ester C</ForeName>
+                    <Initials>EC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto de Medicina Tropical e Faculdade de Medicina da Universidade de São Paulo, São Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lackritz</LastName>
+                    <ForeName>Eve</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>WHO, Switzerland, Geneva.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pybus</LastName>
+                    <ForeName>Oliver G</ForeName>
+                    <Initials>OG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alves</LastName>
+                    <ForeName>Maria-João</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Nacional de Saúde Doutor Ricardo Jorge, Águas de Moura, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Afonso</LastName>
+                    <ForeName>Joana</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Nacional de Investigação em Saúde, Ministry of Health, Luanda, Angola. Electronic address: jfm.morais9@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Faria</LastName>
+                    <ForeName>Nuno R</ForeName>
+                    <Initials>NR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, University of Oxford, Oxford, UK. Electronic address: nuno.faria@zoo.ox.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Lancet Infect Dis</MedlineTA>
+            <NlmUniqueID>101130150</NlmUniqueID>
+            <ISSNLinking>1473-3099</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31559967</ArticleId>
+            <ArticleId IdType="pii">S1473-3099(19)30293-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/S1473-3099(19)30293-2</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31559790</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1898-2263</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>26</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Sep</Month>
+                        <Day>19</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annals of agricultural and environmental medicine : AAEM</Title>
+                <ISOAbbreviation>Ann Agric Environ Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Selected arboviral diseases imported to Poland - current state of knowledge and perspectives for research.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>385-391</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">102471</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.26444/aaem/102471</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Arthropod-borne viruses are important causes of human morbidity worldwide. However, the available literatur and the epidemiological data concerning the importation to Poland of globally emerging arboviral infections, such as DENV, CHIKV, WNV, or ZIKV, are scarce. Only few seroepidemiologic studies concerning WNV in animals or humans in Poland have been published.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this review paper is to summarize and present the current state of knowledge and the perspectives for research concerning the importation and the risk posed by the introduction to Poland of the four above-mentioned arboviral diseases.</AbstractText>
+                <AbstractText Label="CURRENT STATE OF KNOWLEDGE" NlmCategory="UNASSIGNED">Climate change may facilitate the northward expansion of both the vectors for diseases previously unseen in Europe, as well as of the viruses themselves, resulting in autochthonous cases of diseases previously exclusively imported. Little is known about the importation of arboviral diseases to Poland because of the frequently asymptomatic or self-limiting course of the disease, lack of epidemiologic studies or effective disease reporting, as well as inadequate access to diagnostic methods.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Further epidemiologic studies in Polish travellers are necessary in order to prevent importation or introduction of the above-mentioned viruses, and to act against potential problems related to blood transfusion or organ transplantation from infected donors.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kuna</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Tropical and Parasitic Diseases, Institute of Maritime and Tropical Medicine, Gdynia, Poland; Faculty of Health Sciences, Medical University of Gdańsk, Gdańsk, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gajewski</LastName>
+                    <ForeName>Michał</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Outpatient Clinic of Hepatology, Provincial Hospital, Szczecin, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Biernat</LastName>
+                    <ForeName>Beata</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Tropical Parasitology, Institute of Maritime and Tropical Medicine, Gdynia, Poland; Faculty of Health Sciences, Medical University of Gdańsk, Gdańsk, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Poland</Country>
+            <MedlineTA>Ann Agric Environ Med</MedlineTA>
+            <NlmUniqueID>9500166</NlmUniqueID>
+            <ISSNLinking>1232-1966</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Chikungunya</Keyword>
+            <Keyword MajorTopicYN="N">Dengue</Keyword>
+            <Keyword MajorTopicYN="N">West Nile Fever</Keyword>
+            <Keyword MajorTopicYN="N">Zika Virus Infection</Keyword>
+            <Keyword MajorTopicYN="N">arboviruses</Keyword>
+            <Keyword MajorTopicYN="N">communicable diseases</Keyword>
+            <Keyword MajorTopicYN="N">imported</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31559790</ArticleId>
+            <ArticleId IdType="pii">102471</ArticleId>
+            <ArticleId IdType="doi">10.26444/aaem/102471</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31559771</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0004-5772</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>67</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of the Association of Physicians of India</Title>
+                <ISOAbbreviation>J Assoc Physicians India</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Diagnostic Value of Low Platelets in Malaria.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>61-64</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">To study the incidence of thrombocytopenia in adults with Plasmodium vivax infection.</AbstractText>
+                <AbstractText Label="Method" NlmCategory="UNASSIGNED">An observational study comprising 84 consenting individuals with Plasmodium vivax infection was undertaken. All the individuals belong to armed forces who are from different parts of the country. Everyone had normal platelet count prior to admission to the hospital. After admission, they were subjected to routine hematological and biochemical investigations comprising complete blood count including platelet counts, urine routine, liver function test, renal function test, serum electrolytes and Chest X-ray after ruling out Dengue, concomitant sepsis and possibility of recent viral infection. Grading of thrombocytopenia was done according to NCI common terminology criteria for adverse events Version 3.0. Results were analysed and tabulated.</AbstractText>
+                <AbstractText Label="Result" NlmCategory="UNASSIGNED">A total of 84 patients were studied. 82 (97.6%) patients had thrombocytopenia. Majority (68.3%) of the patients had their lowest platelet count on the 5th and 6th day of fever. There was no associated increase in risk of complication with the increase in grade of thrombocytopenia. But with increase in severity of thrombocytopenia, it took more time for the platelets to recover to normal level.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Thrombocytopenia is widely present in P. vivax malaria of adults. However, the severity of thrombocytopenia does not correlate with the likely progression to complication. The chance of progressing to complicated malaria is equal among all adults of P.vivax malaria irrespective of the platelet levels. Hence, in a resource limited rural Indian set-up where the expertise to diagnose and detect malaria microscopically or reliable antigen detection method is not available, thrombocytopenia in an acute febrile illness especially on Day 5 to Day 6 of fever onset could be considered as P. vivax malarial infection with good amount of diagnostic accuracy (sensitivity of 97.6%) and empirical anti-malarial therapy could be started as per the existing treatment guidelines.</AbstractText>
+                <CopyrightInformation>© Journal of the Association of Physicians of India 2011.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Varadaraj</LastName>
+                    <ForeName>Sqn Ldr G</ForeName>
+                    <Initials>SLG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graded Specialist, Department of Medicine , Corresponding Author.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tripathy</LastName>
+                    <ForeName>Gp Capt Nk</ForeName>
+                    <Initials>GCN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Classified Specialist (Aviation Medicine), 15 Air Force Hospital, Jaisalmer, Rajasthan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nithiya</LastName>
+                    <ForeName>Devi R</ForeName>
+                    <Initials>DR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Assistant Professor, Department of Physiology, Mahatma Gandhi Medical College and Research Institute, Puducherry.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Assoc Physicians India</MedlineTA>
+            <NlmUniqueID>7505585</NlmUniqueID>
+            <ISSNLinking>0004-5772</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31559771</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31559761</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0004-5772</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>67</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of the Association of Physicians of India</Title>
+                <ISOAbbreviation>J Assoc Physicians India</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Study on Cardiac Manifestations of Dengue Fever.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>14-16</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="Aims" NlmCategory="UNASSIGNED">Incidence of cardiac involvement in dengue fever varies between 15 -50%. Cardiac manifestations of dengue fever include asymptomatic sinus bradycardia, transient AV blocks, transient ventricular arrhythmias, myocarditis and pericardial effusion. This study was done with the objective of finding actual incidence of different cardiac manifestations of dengue fever in our tertiary care hospital.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">One hundred and twenty dengue patients were studied between January 2016 to December 2017. Routine biochemical parameters like complete haemogram, liver function tests, renal function tests, electrolytes were checked in all cases. ECG, echocardiography, Troponin T were evaluated in every patients and they were corroborated with clinical features like chest pain, dyspnoea, palpitation. Patients with electrolyte abnormalities, preexisting heart disease, drugs interfering with heart rhythm were excluded from study.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Fifteen patients had cardiac involvement (12.5%). Eight patient had bradyarrhythmias (6.6%). Asymptomatic sinus bradycardia was commonest (3.3%). All had normal recovery within two weeks. Four patients had left ventricular systolic dysfunction (ejection fraction 35% - 45%) and there was spontaneous recovery within three months. Two patients had pericardial effusion which resolved within two weeks. Transient 2.1 AV block and atrial fibrillation were observed in two cases.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Cardiac manifestations of Dengue were present in 11.4 % of our patents. Brady arrhythmias (6.6%) were commonest manifestation which resolves spontaneously within seven to fourteen days. Left ventricular systolic dysfunction was present in 3.3% of patients which recovered within three months. Pericardial effusion was seen in 2.5% of patients. There were no significant tachyarrhythmias in our patients except one case of atrial fibrillation.</AbstractText>
+                <CopyrightInformation>© Journal of the Association of Physicians of India 2011.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Datta</LastName>
+                    <ForeName>Goutam</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Associate Professor, Burdwan Medical College, West Bengal;Corresponding Author.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mitra</LastName>
+                    <ForeName>Pratik</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Senior Consultant, EEDF Hospital, Kolkata, West Bengal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Assoc Physicians India</MedlineTA>
+            <NlmUniqueID>7505585</NlmUniqueID>
+            <ISSNLinking>0004-5772</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31559761</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31559760</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0004-5772</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>67</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of the Association of Physicians of India</Title>
+                <ISOAbbreviation>J Assoc Physicians India</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dengue in India: Matters of the Heart.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>11-12</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nadkar</LastName>
+                    <ForeName>Milind Y</ForeName>
+                    <Initials>MY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Professor and Head.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khot</LastName>
+                    <ForeName>Wasim</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Assistant Professor, Department of Medicine, Seth GS Medical College and KEM Hospital, Mumbai, Maharashtra.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Assoc Physicians India</MedlineTA>
+            <NlmUniqueID>7505585</NlmUniqueID>
+            <ISSNLinking>0004-5772</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31559760</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31559435</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1938-2928</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Sep</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical entomology</Title>
+                <ISOAbbreviation>J. Med. Entomol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Action of Metarhizium brunneum (Hypocreales: Clavicipitaceae) Against Organophosphate- and Pyrethroid-Resistant Aedes aegypti (Diptera: Culicidae) and the Synergistic Effects of Phenylthiourea.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">tjz161</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/jme/tjz161</ELocationID>
+            <Abstract>
+                <AbstractText>Dengue, yellow fever, Zika, and chikungunya arboviruses are endemic in tropical countries and are transmitted by Aedes aegypti. Resistant populations of this mosquito against chemical insecticides are spreading worldwide. This study aimed to evaluate the biological effects of exposure of pesticide-sensitive Ae. aegypti larvae (Rockefeller) to conidia of the entomopathogen, Metarhizium brunneum, laboratory strains ARSEF 4556 and V275, and any synergistic activity of phenylthiourea (PTU). In addition, to investigate the nature of any cross-resistance mechanisms, these M. brunneum strains were tested against the Rockefeller larvae and two temephos- and deltamethrin-resistant wild mosquito populations from Rio de Janeiro. Treatment of Rockefeller larvae with 106 conidia/ml of ARSEF 4556 and V275 fungal strains resulted in significant decreased survival rates to 40 and 53.33%, respectively (P &lt; 0.0001), compared with untreated controls. In contrast, exposure to 104 or 105 conidia/ml showed no such significant survival differences. However, the addition of PTU to the conidia in the bioassays significantly increased mortalities in all groups and induced a molt block. Experiments also showed no differences in Ae. aegypti mortalities between the fungal treated, wild pesticide-resistant populations and the Rockefeller sensitive strain. The results show the efficacy of M. brunneum in controlling Ae. aegypti larvae and the synergistic role of PTU in this process. Importantly, there was no indication of any cross-resistance mechanisms between Ae. aegypti sensitive or resistant to pesticides following treatment with the fungi. These results further support using M. brunneum as an alternative biological control agent against mosquito populations resistant to chemical insecticides.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2019. Published by Oxford University Press on behalf of Entomological Society of America. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Prado</LastName>
+                    <ForeName>Rodrigo</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratório de Biologia de Insetos, GBG, Universidade Federal Fluminense, Rio de Janeiro, RJ, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Insect Biochemistry and Physiology, Oswaldo Cruz Institute, Oswaldo Cruz Foundation, Rio de Janeiro, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Macedo-Salles</LastName>
+                    <ForeName>Pãmella A</ForeName>
+                    <Initials>PA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratório de Micologia Médica e Molecular, Universidade Federal Fluminense, Rio de Janeiro, RJ, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duprat</LastName>
+                    <ForeName>Rodrigo C</ForeName>
+                    <Initials>RC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratório de Biologia de Insetos, GBG, Universidade Federal Fluminense, Rio de Janeiro, RJ, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baptista</LastName>
+                    <ForeName>Andrea R S</ForeName>
+                    <Initials>ARS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratório de Micologia Médica e Molecular, Universidade Federal Fluminense, Rio de Janeiro, RJ, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feder</LastName>
+                    <ForeName>Denise</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratório de Biologia de Insetos, GBG, Universidade Federal Fluminense, Rio de Janeiro, RJ, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lima</LastName>
+                    <ForeName>José Bento Pereira</ForeName>
+                    <Initials>JBP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratório de Fisiologia e Controle de Artrópodes Vetores, Instituto Oswaldo Cruz-Fiocruz, Rio de Janeiro.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratório de Entomologia, Instituto de Biologia do Exército, Rio de Janeiro, RJ, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Butt</LastName>
+                    <ForeName>Tariq</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biosciences, Swansea University, Singleton Park, Swansea, SA28PP Wales, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ratcliffe</LastName>
+                    <ForeName>Norman A</ForeName>
+                    <Initials>NA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratório de Biologia de Insetos, GBG, Universidade Federal Fluminense, Rio de Janeiro, RJ, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biosciences, Swansea University, Singleton Park, Swansea, SA28PP Wales, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mello</LastName>
+                    <ForeName>Cicero Brasileiro</ForeName>
+                    <Initials>CB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratório de Biologia de Insetos, GBG, Universidade Federal Fluminense, Rio de Janeiro, RJ, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Med Entomol</MedlineTA>
+            <NlmUniqueID>0375400</NlmUniqueID>
+            <ISSNLinking>0022-2585</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">entomopathogenic fungi</Keyword>
+            <Keyword MajorTopicYN="N">insecticide resistance</Keyword>
+            <Keyword MajorTopicYN="N">larvicidal</Keyword>
+            <Keyword MajorTopicYN="N">mosquito vector</Keyword>
+            <Keyword MajorTopicYN="N">phenylthiourea</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31559435</ArticleId>
+            <ArticleId IdType="pii">5574698</ArticleId>
+            <ArticleId IdType="doi">10.1093/jme/tjz161</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31557664</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-5967</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>120</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Sep</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology</Title>
+                <ISOAbbreviation>J. Clin. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>One-step pentaplex real-time polymerase chain reaction assay for detection of zika, dengue, chikungunya, West nile viruses and a human housekeeping gene.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>44-50</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1386-6532(19)30190-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jcv.2019.08.011</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Recent emergence of Zika virus (ZIKV), and the global spread of dengue (DENV), chikungunya (CHIKV) and West Nile viruses (WNV) raised urgent need of accurate and affordable molecular diagnosis of these clinically indistinguishable arboviral infections.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">We established a pentaplex real-time reverse transcription PCR (rRT-PCR) assay (CII-ArboViroPlex rRT-PCR) for specific and sensitive detection of the African and American genotypes of ZIKV, all four serotypes of DENV, CHIKV, WNV and a housekeeping gene as internal control in single reaction.</AbstractText>
+                <AbstractText Label="STUDY DESIGN" NlmCategory="METHODS">Specific primers and probe sets were designed for ZIKV, DENV, CHIKV, WNV and RNase P (housekeeping gene) and tested for in-vitro transcribed RNA standards, virus cultures, clinical samples positive for ZIKV, DENV, CHIKV and WNV and limit of detection (LOD) were determined for each. Results Using ten-fold serially diluted in-vitro transcribed RNA, CII- ArboViroPlex rRT-PCR assay has LOD of 100 RNA copies/reaction (Rn) for ZIKV in serum or urine, 100 RNA copies/Rn for DENV in serum, and 10 RNA copies/Rn for CHIKV and WNV in serum. LODs from sera spiked with quantitated viral stocks were 2.6 × 10<sup>2</sup> GEQ/Rn for ZIKV, 2.2 × 10<sup>1</sup> GEQ/Rn for DENV-1, 9.4 × 10<sup>0</sup> GEQ/Rn for DENV-2, 2.3 × 10<sup>2</sup> GEQ/Rn for DENV-3, 1.4 × 10<sup>3</sup> GEQ/Rn for DENV-4, 2.7 × 10<sup>2</sup> GEQ/Rn for CHIKV, and 1.05 × 10<sup>1</sup> GEQ/Rn for WNV.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The CII-ArboViroPlex rRT-PCR assay is a quantitative one-step pentaplex rRT-PCR assay for the molecular detection and differential diagnosis of ZIKV, DENV, CHIKV, WNV and a human housekeeping gene control in a single- PCR reaction.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mishra</LastName>
+                    <ForeName>Nischay</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Infection and Immunity, Mailman School of Public Health, Columbia University, New York, NY, USA. Electronic address: nm2641@cumc.columbia.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ng</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Infection and Immunity, Mailman School of Public Health, Columbia University, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rakeman</LastName>
+                    <ForeName>Jennifer L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Public Health Laboratory, New York City Department of Health and Mental Hygiene, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perry</LastName>
+                    <ForeName>Michael J</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biodefense Laboratory, Wadsworth Center, New York State Department of Health, Albany, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Centurioni</LastName>
+                    <ForeName>Dominick A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biodefense Laboratory, Wadsworth Center, New York State Department of Health, Albany, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dean</LastName>
+                    <ForeName>Amy B</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Virology Laboratory, Wadsworth Center, New York State Department of Health, Albany, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Price</LastName>
+                    <ForeName>Adam</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Infection and Immunity, Mailman School of Public Health, Columbia University, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thakkar</LastName>
+                    <ForeName>Riddhi</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Infection and Immunity, Mailman School of Public Health, Columbia University, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Angus</LastName>
+                    <ForeName>Andreina Garcia</ForeName>
+                    <Initials>AG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Infection and Immunity, Mailman School of Public Health, Columbia University, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Williamson</LastName>
+                    <ForeName>Phillip</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Creative Testing Solutions, Tempe, Arizona, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Delwart</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine, University of California at San Francisco, San Francisco, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carrington</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preclinical Sciences, Faculty of Medical Sciences, The University of the West Indies, St. Augustine, Trinidad and Tobago.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sahadeo</LastName>
+                    <ForeName>Nikita</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preclinical Sciences, Faculty of Medical Sciences, The University of the West Indies, St. Augustine, Trinidad and Tobago.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Che</LastName>
+                    <ForeName>Xiaoyu</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Infection and Immunity, Mailman School of Public Health, Columbia University, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Briese</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Infection and Immunity, Mailman School of Public Health, Columbia University, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tokarz</LastName>
+                    <ForeName>Rafal</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Infection and Immunity, Mailman School of Public Health, Columbia University, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lipkin</LastName>
+                    <ForeName>W Ian</ForeName>
+                    <Initials>WI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Infection and Immunity, Mailman School of Public Health, Columbia University, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Clin Virol</MedlineTA>
+            <NlmUniqueID>9815671</NlmUniqueID>
+            <ISSNLinking>1386-6532</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Arboviruses</Keyword>
+            <Keyword MajorTopicYN="N">CII-ArboViroPlex rRT PCR</Keyword>
+            <Keyword MajorTopicYN="N">Chikungunya virus</Keyword>
+            <Keyword MajorTopicYN="N">Dengue virus</Keyword>
+            <Keyword MajorTopicYN="N">West nile virus</Keyword>
+            <Keyword MajorTopicYN="N">Zika virus</Keyword>
+            <Keyword MajorTopicYN="N">qPCR</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31557664</ArticleId>
+            <ArticleId IdType="pii">S1386-6532(19)30190-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jcv.2019.08.011</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>

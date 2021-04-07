@@ -1,0 +1,69 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
+
+<body>
+        <nav class="navbar navbar-light bg-light">
+                <a class="navbar navbar-dark " href="#">
+                 IIR COURSE
+                </a>
+              </nav>
+        <ul class="nav justify-content-end">
+                <li class="nav-item">
+                  <a class="nav-link active" href="../">Home</a>
+                </li>
+                <!-- <li class="nav-item">
+                  <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                </li> -->
+              </ul>
+    {% if file_type == 'xml' %}
+    {% for xml in per_detail %}
+    <div class="card">
+        <h5 class="card-header">ID：{{xml.ID}}</h5>
+        <div class="card-body">
+            <h5 class="card-title">{% autoescape off %}ARTITLE：{{xml.ARTITLE}}{% endautoescape off %}</h5>
+            <p class="card-text">{% autoescape off %}ABREST：<br>{{xml.ABREST}}{% endautoescape off %}</p>
+
+            <p class="blockquote-footer">CHARACTERS：{{xml.PER_CHARACTER}} </p>
+            <p class="blockquote-footer">WORDS：{{xml.WORDS}}</p>
+            <p class="blockquote-footer">SENTENCES：{{xml.SENTENCE}}</p>
+            <p class="blockquote-footer">PER WORD：{{xml.PER_WORD}} </p>
+        </div>
+    </div>
+    {% endfor %}
+
+    {% else %}
+    {% for json in per_detail %}
+    <div class="card">
+        <h5 class="card-header">INDEX：{{json.INDEX}}</h5>
+        <div class="card-body">
+            <h5 class="card-title">ID：</h5>
+            <p class="card-text">{% autoescape off %}TEXT：<br>{{json.TEXT}}{% endautoescape off %}</p>
+
+            <p class="blockquote-footer">CHARACTER：{{json.PER_CHARACTER}} </p>
+            <p class="blockquote-footer">WORDS：{{json.WORDS}}</p>
+            <p class="blockquote-footer">SENTENCES：{{json.SENTENCE}}</p>
+            <p class="blockquote-footer">PER WORD：{{json.PER_WORD}} </p>
+
+        </div>
+    </div>
+    {% endfor %}
+    {% endif %}
+
+
+</body>
+
+</html>

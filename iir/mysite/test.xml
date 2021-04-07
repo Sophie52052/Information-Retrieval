@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">31778048</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1660-9379</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>15</Volume>
+                    <Issue>673</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Nov</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Revue medicale suisse</Title>
+                <ISOAbbreviation>Rev Med Suisse</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Management of urologic cancers in elderly people : which implications ?]</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2195-2197</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Elderly patients with urologic cancer are often undertreated because of their age. Recently, many studies showed that advanced age is not an absolute contraindication to radical surgery for bladder and prostate cancer patients. For small renal cancers, instead, active surveillance with a close follow-up may be a valid alternative to surgery because of a low risk of progression. Patients' selection remains a crucial step to define the best treatment. This article summarizes the new tendencies of urologic cancer management in elderly patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schaer</LastName>
+                    <ForeName>Sandy</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Service d'urologie, CHUV, 1011 Lausanne.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valerio</LastName>
+                    <ForeName>Massimo</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Service d'urologie, CHUV, 1011 Lausanne.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jichlinski</LastName>
+                    <ForeName>Patrice</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Service d'urologie, CHUV, 1011 Lausanne.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lucca</LastName>
+                    <ForeName>Ilaria</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Service d'urologie, CHUV, 1011 Lausanne.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>fre</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Prise en charge de cancers urologiques chez la population âgée : quels enjeux ?</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Rev Med Suisse</MedlineTA>
+            <NlmUniqueID>101219148</NlmUniqueID>
+            <ISSNLinking>1660-9379</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018450" MajorTopicYN="N">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007680" MajorTopicYN="N">Kidney Neoplasms</DescriptorName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018579" MajorTopicYN="N">Patient Selection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012306" MajorTopicYN="N">Risk</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014571" MajorTopicYN="N">Urologic Neoplasms</DescriptorName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherAbstract Type="Publisher" Language="fre">
+            <AbstractText>Les personnes âgées avec un cancer urologique sont souvent traitées de façon sous-optimale en se basant uniquement sur leur âge avancé. Récemment, plusieurs chercheurs se sont intéressés à cette classe de la population et ont montré que l’âge avancé n’est pas forcément une contre-indication à réaliser une chirurgie majeure. Cependant, l’évaluation des bénéfices et des risques est déterminante car la grande majorité des néoplasies du rein et de la prostate ont une lente évolution et un faible risque de progression, raison pour laquelle, une surveillance active avec des examens réguliers peut donc être la meilleure alternative. La sélection du patient reste une étape cruciale afin de proposer la meilleure option thérapeutique. Cet article résume les nouvelles tendances de prise de charge des 3 pathologies onco-urologiques les plus fréquentes.</AbstractText>
+        </OtherAbstract>
+        <CoiStatement>Les auteurs n’ont déclaré aucun conflit d’intérêts en relation avec cet article.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31778048</ArticleId>
+            <ArticleId IdType="pii">RMS0673-004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>

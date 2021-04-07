@@ -1,0 +1,99 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+  <!-- Image and text -->
+  <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <!-- Brand/logo -->
+    <a class="navbar-brand" href="../">IIR_COURSE</a>
+    <!-- Links -->
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="../">SEARCH</a>
+      </li>
+      <!-- <li class="nav-item">
+        <a class="nav-link" href="#">Link 2</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Link 3</a>
+      </li> -->
+    </ul>
+  </nav> <br>
+
+
+
+  <!-- <div class="card-header">
+        Search bar:
+      </div> -->
+  {% load static %}
+  <img src="{% static 'iir.gif' %}" alt="IIR" class="mx-auto d-block"><br>
+
+  {% csrf_token %}
+  <!-- <p class="text-center">Your file : {{filename}}</p><br> -->
+
+  <div class="row">
+
+    <div class="col-sm-4">
+
+      <form action={{url}} method="post" enctype="multipart/form-data">
+        <label class="mx-sm-3 mb-2 text-center">Search Keyword</label><br>
+        {% csrf_token %}
+        <input type="text" class="mx-sm-3 mb-2" name="keyword" placeholder="Input keyword">
+        <button type="submit" class="mx-sm-3 mb-2 btn btn-outline-success">Search</button>
+        <br>
+        <label class="radio-inline mx-sm-3"><input type="radio" name="optradio" checked>NONE</label>
+        <label class="radio-inline mx-sm-3 "><input type="radio" name="optradio">BSBI</label>
+        <label class="radio-inline mx-sm-3 "><input type="radio" name="optradio">SPIMI</label>
+        <!-- <input type="text" class="mx-sm-3 mb-2" name="keyword2" placeholder="Input keyword"> -->
+        <!-- <input type="hidden" class="mx-auto d-block " name="filename" value={{filename}}> -->
+        <!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> -->
+        <br>
+
+        <!-- class="btn btn-outline-success" -->
+        <!-- class="form-control -->
+
+
+      </form>
+    </div>
+    <div class="col-sm-4">
+      <form action="../compare/" method="post" enctype="multipart/form-data">
+        <label class="mx-sm-3 mb-2 text-center">Compare Keyword with ZICA</label><br>
+        {% csrf_token %}
+        <input type="text" class="mx-sm-3 mb-2" name="keyword" placeholder="Input keyword">
+
+        <input type="hidden" class="mx-auto d-block " name="filename" value={{filename}}>
+
+        <button type="submit" class="mx-sm-3 mb-2 btn btn-outline-success">compare</button>
+      </form>
+    </div>
+
+    <div class="col-sm-4">
+
+        <form action={{url}} method="post" enctype="multipart/form-data">
+          <label class="mx-sm-3 mb-2 text-center">Search / Compare</label><br>
+          {% csrf_token %}
+          <input type="text" class="mx-sm-3 mb-2" name="keyword" placeholder="Input keyword">
+          <input type="text" class="mx-sm-3 mb-2" name="keyword2" placeholder="Input keyword">
+          <input type="hidden" class="mx-auto d-block " name="filename" value={{filename}}>
+          <!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> -->
+          <button type="submit" class="mx-sm-3 mb-2 btn btn-outline-success">Search</button>
+  
+          <!-- class="btn btn-outline-success" -->
+          <!-- class="form-control -->
+  
+  
+        </form>
+      </div>
+  </div>
+  </div>
+
+</body>
+
+</html>

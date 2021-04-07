@@ -1,0 +1,34 @@
+ import json
+
+detail = json.loads(str(open('j2.json','r',encoding="utf-8").read()))
+#---------------------
+#有,
+#detail = [json.loads(line) for line in open('30.json', 'r')]
+
+#data = []
+#for line in open('30.json', 'r',encoding="utf-8"):
+    #data.append(json.loads(line))
+
+detail = []
+for msg in detail:
+    per_element = []
+    per_element.append(msg['id'])
+    per_element.append(msg['text'])
+    detail.append(per_element)
+    
+search_input=input("請輸入資料:")  
+def word_count(str):
+    counts = dict()
+    words = str.split()
+
+    for word in words:
+        if word in counts:
+            counts[word] += 1
+        else:
+            counts[word] = 1
+
+    return counts
+for i in range(len(detail)):
+    if search_input.lower() in detail[i]["text"].lower():
+        print("INDEX:" + str(i) + "\nID:" + str(detail[i]["id"]) + "\nTEXT:" + str(detail[i]["text"]) )    
+        print("PER_CHARACTER:"+str(len(detail[i]["text"]))+"\nWORDS:"+str(len(detail[i]["text"].split()))+"\nPER_WORD:"+ str(word_count(detail[i]["text"]))+"\n")

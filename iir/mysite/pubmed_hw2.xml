@@ -1,0 +1,1713 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31616598</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization of dengue cases among patients with an acute illness, Central Department, Paraguay.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e7852</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.7852</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">In 2018, Paraguay experienced a large dengue virus (DENV) outbreak. The primary objective of this study was to characterize dengue cases in the Central Department, where the majority of cases occur, and identify factors associated with DENV infection.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">Patients were enrolled from January-May 2018 if they presented with a suspected arboviral illness. Acute-phase specimens (≤8 days after symptom onset) were tested using rRT-PCR, a rapid diagnostic test for DENV nonstructural protein 1 (NS1) and anti-DENV IgM and IgG, and ELISA for IgG against NS1 from Zika virus (ZIKV).</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">A total of 231 patients were enrolled (95.2% adults) at two sites: emergency care and an outpatient clinical site. Patients included 119 (51.5%) dengue cases confirmed by rRT-PCR (<i>n</i> = 115, 96.6%) and/or the detection of NS1 and anti-DENV IgM (<i>n</i> = 4, 3.4%). DENV-1 was the predominant serotype (109/115, 94.8%). Epidemiologically, dengue cases and non-dengue cases were similar, though dengue cases were less likely to reside in a house/apartment or report a previous dengue case. Clinical and laboratory findings associated with dengue included red eyes, absence of sore throat, leucopenia and thrombocytopenia. At an emergency care site, 26% of dengue cases (26/100) required hospitalization. In univariate analysis, hospitalization was associated with increased viral load, anti-DENV IgG, and thrombocytopenia. Among dengue cases that tested positive for IgG against ZIKV NS1, the odds of DENV NS1 detection in the acute phase were decreased 10-fold (OR 0.1, 0.0-0.3).</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">Findings from a predominantly adult population demonstrate clinical and laboratory factors associated with DENV infections and the potential severity of dengue in this group. The combination of viral load and specific IgG antibodies warrant further study as a prognostic to identify patients at risk for severe disease.</AbstractText>
+                <CopyrightInformation>©2019 Rojas et al.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rojas</LastName>
+                    <ForeName>Alejandra</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Producción, Instituto de Investigaciones en Ciencias de la Salud, Universidad Nacional de Asunción, San Lorenzo, Paraguay.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cardozo</LastName>
+                    <ForeName>Fátima</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Salud Pública, Instituto de Investigaciones en Ciencias de la Salud, Universidad Nacional de Asunción, San Lorenzo, Paraguay.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cantero</LastName>
+                    <ForeName>César</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Producción, Instituto de Investigaciones en Ciencias de la Salud, Universidad Nacional de Asunción, San Lorenzo, Paraguay.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stittleburg</LastName>
+                    <ForeName>Victoria</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Division of Infectious Diseases, Emory University, Atlanta, GA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>López</LastName>
+                    <ForeName>Sanny</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Producción, Instituto de Investigaciones en Ciencias de la Salud, Universidad Nacional de Asunción, San Lorenzo, Paraguay.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bernal</LastName>
+                    <ForeName>Cynthia</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Producción, Instituto de Investigaciones en Ciencias de la Salud, Universidad Nacional de Asunción, San Lorenzo, Paraguay.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gimenez Acosta</LastName>
+                    <ForeName>Francisco Eugenio</ForeName>
+                    <Initials>FE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Área Ambulatoria, Hospital Distrial de Villa Elisa, Asunción, Paraguay.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mendoza</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Salud Pública, Instituto de Investigaciones en Ciencias de la Salud, Universidad Nacional de Asunción, San Lorenzo, Paraguay.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pinsky</LastName>
+                    <ForeName>Benjamin A</ForeName>
+                    <Initials>BA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Stanford University School of Medicine, Stanford, CA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Division of Infectious Diseases and Geographic Medicine, Stanford University School of Medicine, Stanford, CA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arévalo de Guillén</LastName>
+                    <ForeName>Ivalena</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Producción, Instituto de Investigaciones en Ciencias de la Salud, Universidad Nacional de Asunción, San Lorenzo, Paraguay.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Páez</LastName>
+                    <ForeName>Malvina</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Salud Pública, Instituto de Investigaciones en Ciencias de la Salud, Universidad Nacional de Asunción, San Lorenzo, Paraguay.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Waggoner</LastName>
+                    <ForeName>Jesse</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Division of Infectious Diseases, Emory University, Atlanta, GA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Rollins School of Public Health, Department of Global Health, Emory University, Atlanta, GA, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Anti-NS1 antibody</Keyword>
+            <Keyword MajorTopicYN="N">Dengue virus</Keyword>
+            <Keyword MajorTopicYN="N">Diagnosis</Keyword>
+            <Keyword MajorTopicYN="N">Hospitalization</Keyword>
+            <Keyword MajorTopicYN="N">NS1</Keyword>
+            <Keyword MajorTopicYN="N">RT-PCR</Keyword>
+            <Keyword MajorTopicYN="N">Viral load</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare there are no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31616598</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.7852</ArticleId>
+            <ArticleId IdType="pii">7852</ArticleId>
+            <ArticleId IdType="pmc">PMC6790102</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31601215</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1472-6882</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>19</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Oct</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC complementary and alternative medicine</Title>
+                <ISOAbbreviation>BMC Complement Altern Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Carica papaya extract in dengue: a systematic review and meta-analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>265</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12906-019-2678-2</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Carica papaya (CP) extract is becoming popular as an unlicensed herbal remedy purported to hasten recovery in dengue infection, mostly based on observations that it may increase platelet counts. This systematic review and meta-analysis aims to critically analyze the evidence from controlled clinical trials on the efficacy and safety of CP extract in the treatment of dengue infection.</AbstractText>
+                <AbstractText Label="INTRODUCTION" NlmCategory="INTRODUCTION">Dengue is an arboviral infection transmitted by mosquitoes of the Aedes species. It is a disease with global implications, resulting in considerable morbidity and mortality. Transmission occurs in at least 128 countries, and almost 4 billion people are at risk [1]. Data from the Global Burden of Disease Study 2013 showed that the incidence of dengue has markedly increased over the years, from 8.3 million cases in 1990 to a staggering 58.4 million cases in 2013 [2]. The annual average number of deaths due to dengue from 1990 to 2013 was estimated at 9221. It is currently estimated that around 390 million dengue infections occur annually, and that 96 million of these result in clinical disease [3]. South and South East Asia account for a major proportion of the global burden of dengue, with an estimated mortality of 8.49 per million population in 2013 [2].Dengue fever occurs due to infection by four distinct serotypes (DEN 1–4), and has diverse manifestations, ranging from an uncomplicated febrile illness to serious disease with organ dysfunction. In the more severe forms, plasma leakage gives rise to shock and organ failure; life threatening haemorrhage can also occur. Unusual organ manifestations of dengue are also increasingly reported, and comprise the expanded dengue syndrome [4]. Mortality in dengue is most often due to shock, intractable multi-organ dysfunction, or uncontrollable bleeding. Excessive fluid therapy is also known to contribute to mortality in patients with plasma leakage, due to the development of pulmonary oedema during the recovery phase.Despite many years of extensive research, specific therapeutic modalities for dengue remain in their infancy. Immunosuppression, in the form of corticosteroids [5] or immunoglobulins, [6] has not shown benefit. Several antiviral agents and other host immune modulators are in the early stages of clinical evaluation, and will not be available for clinical use in the foreseeable future [7]. Several dengue vaccines are in development, and some already licensed for use, but these do not show convincing evidence of benefit across all age groups, and do not confer immunity for all serotypes [8]. The mainstay of clinical treatment of dengue is careful fluid management, with close monitoring and supportive care.The lack of effective therapeutic interventions for dengue has created interest in alternative therapies, i.e., natural and herbal remedies for the disease. Carica papaya (CP) leaf extract has recently gained interest in the treatment of dengue, particularly in social media networks, and has shown increasing off-label use in the disease. While the simple extract of papaya leaves is commonly used, there are some commercial preparations containing papaya leaf extract available in certain countries.CP is a ubiquitous flowering plant in the tropics, with an edible fruit. Originally native to Mexico and South America, it has flourished after introduction to South and South-East Asian countries. The leaves of the plant contain several biologically active compounds, such as papain, caricain, chymopapain, and glycine endopeptidase. These compounds have been shown to improve acidic pH, and cause degradation of pepsin [9]. CP also contains lipase, which is bound to the water-insoluble component of papain [10]. CP leaf extract has been purported to have anti-viral and haematological effects which might have pathophysiological implications for its use as treatment for dengue, such as anti-oxidant and free radical scavenging properties, [11] and improved red cell membrane stabilization [12]. The flavonoids of CP leaf extract have been shown to inhibit a protease involved in viral assembly [13].During recent epidemics, patients have resorted to the off-label use of CP extract in dengue infection. However intense debate continues regarding the therapeutic efficacy and safety profile of this treatment. This systematic review and meta-analysis aims to critically analyze the available clinical evidence from prospective controlled clinical trials on the efficacy and safety of CP extract in the treatment of dengue infection.</AbstractText>
+               <AbstractText Label="METHODS" NlmCategory="METHODS">Eligibility criteria : We included prospective clinical trials (randomized or non-randomized) with a control group (placebo or no treatment).Information sources and search strategy : We searched PubMed, LILACS and Google Scholar for relevant articles. PubMed and LILACS were searched with the keywords ‘dengue’ in any field and ‘papaya’ in any field without any language, time, or other restrictions. A Google Scholar search was performed with the keywords ‘dengue’ and ‘papaya’ in the title of the article with no other restrictions. References provided in full papers were also used to identify additional papers for review. The last date of the search was 2nd August 2019. We used the software Endnote X7 (Thomson Reuters, Carlsbad, CA 92011, USA) to filter articles. Review Manager (RevMan) version 5 (Cochrane Collaboration) was used to analyze the data. Study selection and data collection : SR, PW, NLdS and CR independently screened the abstracts and selected articles reporting controlled studies. Eligible studies were finalized by consensus among all authors. Outcomes and data items extracted : Data from individual studies were extracted using a customized data extraction proforma designed by the authors. The data items extracted from each eligible study included: location of the trial, participant demographics, patient characteristics of test and control groups, severity of disease, details of interventions, and outcome measures. Selected outcomes : We chose the following outcome measures: mortality, incidence of plasma leakage, shock, minor and major bleeding manifestations, organ complications, changes in platelets counts, haematocrit as surrogate measure of plasma leakage, days of hospitalization, transfusion requirements, need for intensive care, and safety outcomes.Risk of bias : We assessed the risks of bias of included studies qualitatively using the Cochrane risk of bias assessment tool [14]. Summary measures and synthesis of results : When comparative trials were available to combine into a meta-analysis, we ed the data using RevMan 5. Dichotomous data were compared with relative risk (RR) and 95% confidence intervals (CI), and continuous data with mean differences. A fixed effect del was used for analysis. We assessed heterogeneity by observing overlapping confidence intervals in the forest plots, chi-square test, and using the I2 statistic. An I2 statistic greater than 70% was considered as a high level of heterogeneity, and a random effect model was used for the analysis. </AbstractText>
+		<AbstractText Label="RESULTS" NlmCategory="RESULTS">Eligibility criteria : We included prospective clinical trials (randomized or non-randomized) with a control group (placebo or no treatment).Information sources and search strategy : We searched PubMed, LILACS and Google Scholar for relevant articles. PubMed and LILACS were searched with the keywords ‘dengue’ in any field and ‘papaya’ in any field without any language, time, or other restrictions. A Google Scholar search was performed with the keywords ‘dengue’ and ‘papaya’ in the title of the article with no other restrictions. References provided in full papers were also used to identify additional papers for review. The last date of the search was 2nd August 2019. We used the software Endnote X7 (Thomson Reuters, Carlsbad, CA 92011, USA) to filter articles. Review Manager (RevMan) version 5 (Cochrane Collaboration) was used to analyze the data. Study selection and data collection : SR, PW, NLdS and CR independently screened the abstracts and selected articles reporting controlled studies. Eligible studies were finalized by consensus among all authors. Outcomes and data items extracted : Data from individual studies were extracted using a customized data extraction proforma designed by the authors. The data items extracted from each eligible study included: location of the trial, participant demographics, patient characteristics of test and control groups, severity of disease, details of interventions, and outcome measures. Selected outcomes : We chose the following outcome measures: mortality, incidence of plasma leakage, shock, minor and major bleeding manifestations, organ complications, changes in platelets counts, haematocrit as surrogate measure of plasma leakage, days of hospitalization, transfusion requirements, need for intensive care, and safety outcomes.Risk of bias : We assessed the risks of bias of included studies qualitatively using the Cochrane risk of bias assessment tool [14]. Summary measures and synthesis of results : When comparative trials were available to combine into a meta-analysis, we ed the data using RevMan 5. Dichotomous data were compared with relative risk (RR) and 95% confidence intervals (CI), and continuous data with mean differences. A fixed effect del was used for analysis. We assessed heterogeneity by observing overlapping confidence intervals in the forest plots, chi-square test, and using the I2 statistic. An I2 statistic greater than 70% was considered as a high level of heterogeneity, and a random effect model was used for the analysis. Meta-analysis for the outcome measure of platelet recovery was possible for only three studies [15, 18, 19] (Fig. 3), because of heterogeneous methods used to determine platelet recovery, and inadequate data provided in other studies. Mean rise in platelets between the first and fifth days was significantly higher in the intervention group (mean difference 35.45, 95% confidence interval 23.74 to 47.15, 129 participants, low quality evidence). Three studies, involving 580 patients, also provided sufficient data on the duration of hospital stay [16, 20, 22] (Fig. 4). Pooled analysis showed that hospital stay was reduced in patients receiving papaya extract compared to either placebo or no treatment (Mean difference − 1.98 days, 95% confidence interval − 1.83 to − 2.12, 290 participants, low quality evidence). Five studies reported on adverse events; three studies reported nausea and vomiting, [21,22,23] and two reported that there were no adverse events seen [15, 20]. The other studies did not mention details of adverse events. </AbstractText>
+		<AbstractText Label="DISCUSSION" NlmCategory="DISCUSSION">Overall, considerable heterogeneity exists in controlled trials of CP extract in dengue published so far. There are marked variations in the enrollment criteria, categorization of patients, and measurements used to determine effects on platelet counts. Studies are mostly of low to moderate quality, with high risk of bias. The doses of CP used are variable, and no attempts have been made to determine effective dose. There are ethical concerns regarding the use of CP leaves or leaf extract without formal phase I testing, as while the fruits are edible, leaves are not routinely ingested. Nonetheless, extracts of CP leaves have not been shown to contain overtly toxic substances [9,10,11]., and comparative studies do not report significant adverse events with CP extract. Given these limitations, there is some evidence of beneficial effects of CP in patients with dengue in reducing overall hospital stay. Platelet counts appear to improve more rapidly following treatment with CP, and in several studies the platelet counts at day 3–5 seem to be higher in those who received CP compared to those who did not. The shorter duration of hospital stay may be linked to improvement in platelet counts as well as clinical improvement, although the details of other parameters which might have prompted early discharge in these patients have not been studied in depth in any of the studies. No studies examined the impact on mortality with CP. The effect of CP on the development or improvement of plasma leakage and haemorrhage has also not been studied, and the studies are either underpowered, or not designed with these important complications as outcome measures. In clinical practice, platelet levels correlate only loosely with the more dreaded complication of plasma leakage and shock syndrome, and the real test of efficacy of any therapeutic modality would be their effect on these life-threatening complications. Nonetheless, there appears to be sufficient evidence from basic sciences research, and from current comparative clinical trials to justify conducting a large scale randomized double-blind placebo controlled trial to evaluate the potential benefits of CP extract. Such a trial should be designed, and powered, to determine the effects on CP on the following: preventing plasma leakage (for which platelet count changes may be a surrogate marker), prevention (or amelioration) of shock and multi-organ dysfunction, requirements for blood and blood product transfusion, the need for ICU admission, and the duration of ICU and hospital stay. </AbstractText>
+		<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Current clinical evidence on the beneficial effects of Carica papaya extract in the treatment of dengue infection is limited, and is based on a few trials of low to moderate quality. Improvements in platelet counts and reduction in hospital stay have been demonstrated, however significant methodological flaws in many of the studies makes it difficult to make clear recommendations. The routine use of CP extract for treating dengue cannot be recommended based on current available evidence. </AbstractText>
+		<AbstractText Label="AVAILABILITY OF DATA AND MATERIALS" NlmCategory="AVAILABILITY OF DATA AND MATERIALS">The datasets used and/or analysed during the current study are available from the corresponding author on reasonable request. </AbstractText>
+		<AbstractText Label="REFERENCES" NlmCategory="REFERENCES">1.Brady OJ, Gething PW, Bhatt S, Messina JP, Brownstein JS, Hoen AG, Moyes CL, Farlow AW, Scott TW, Hay SI. Refining the global spatial limits of dengue virus transmission by evidence-based consensus. PLoS Negl Trop Dis. 2012;6(8):e1760. 2. Stanaway JD, Shepard DS, Undurraga EA, Halasa YA, Coffeng LE, Brady OJ, Hay SI, Bedi N, Bensenor IM, Castañeda-Orjuela CA, et al. The global burden of dengue: an analysis from the global burden of disease study 2013. Lancet Infect Dis. 2016;16(6):712–23. 3.Bhatt S, Gething PW, Brady OJ, Messina JP, Farlow AW, Moyes CL, Drake JM, Brownstein JS, Hoen AG, Sankoh O, et al. The global distribution and burden of dengue. Nature. 2013;496(7446):504–7. 4.Rajapakse S, Wattegama M, Weeratunga P, Sigera PC, Fernando SD. Beyond thrombocytopaenia, haemorrhage and shock: the expanded dengue syndrome. Pathogens and Global Health. 2018;112(8):404–14. 5.Rajapakse S, Rodrigo C, Maduranga S, Rajapakse AC. Corticosteroids in the treatment of dengue shock syndrome. Infection and drug resistance. 2014;7:137–43. 6.Rajapakse S. Intravenous immunoglobulins in the treatment of dengue illness. Trans R Soc Trop Med Hyg. 2009;103(9):867–70. 7.Lee TH, Lee LK, Lye DC, Leo YS. Current management of severe dengue infection. Expert Rev Anti-Infect Ther. 2017;15(1):67–78. 8.Hadinegoro SR, Arredondo-García JL, Capeding MR, Deseda C, Chotpitayasunondh T, Dietze R, Hj Muhammad Ismail HI, Reynales H, Limkittikul K, Rivera-Medina DM, et al. Efficacy and long-term safety of a dengue vaccine in regions of endemic disease. N Engl J Med. 2015;373(13):1195–206. 9.Huet J, Looze Y, Bartik K, Raussens V, Wintjens R, Boussard P. Structural characterization of the papaya cysteine proteinases at low pH. Biochem Biophys Res Commun. 2006;341(2):620–6. 10.Dominguez de Maria P, Sinisterra JV, Tsai SW, Alcantara AR. Carica papaya lipase (CPL): an emerging and versatile biocatalyst. Biotechnol Adv. 2006;24(5):493–9. 11.Okoko T, Ere D. Reduction of hydrogen peroxide-induced erythrocyte damage by Carica papaya leaf extract. Asian Pac J Trop Biomed. 2012;2(6):449–53. 12.Ranasinghe P, Ranasinghe P, Abeysekera WP, Premakumara GA, Perera YS, Gurugama P, Gunatilake SB. In vitro erythrocyte membrane stabilization properties of Carica papaya L. leaf extracts. Pharm Res. 2012;4(4):196–202. 13.Senthilvel P, Lavanya P, Kumar KM, Swetha R, Anitha P, Bag S, Sarveswari S, Vijayakumar V, Ramaiah S, Anbarasu A. Flavonoid from Carica papaya inhibits NS2B-NS3 protease and prevents dengue 2 viral assembly. Bioinformation. 2013;9(18):889–95. 14.Higgins JP, Altman DG, Gotzsche PC, Juni P, Moher D, Oxman AD, Savovic J, Schulz KF, Weeks L, Sterne JA. The Cochrane Collaboration's tool for assessing risk of bias in randomised trials. BMJ. 2011;343:d5928. 15.Assir M, Nasir N, Mansoor H, Waseem T, Ahmed H, Riaz F. Effect of Carica papaya leaf extract on platelet count in dengue fever: a randomized controlled tirals (PLEAD TRIAL). J Allama Iqbal Med Coll. 2011;9:6–9. 16.Yunita F, Hanani E, Kristianto J. The effect of Carica papaya L. leaves extract capsules on platelets count and hematocrit level in dengue fever patient. Int J Med Aromat Plants. 2012;2:573–8. 17.Subenthiran S, Choon TC, Cheong KC, Thayan R, Teck MB, Muniandy PK, Afzan A, Abdullah NR, Ismail Z. Carica papaya leaves juice significantly accelerates the rate of increase in platelet count among patients with dengue fever and dengue Haemorrhagic fever. Evidence-based Complementary and Alternative medicine : eCAM. 2013;2013:616737. 18.Abhishek G, Vinod T, Malik S, Virmani S, Saurabh S. Efficacy of Carica papaya leaf axtract in treating thrombocytopaenia in casesof dengue. Journal Of Advance Researches In Medical Sciences (Formerly Journal of Advance Researches in Biological Sciences). 2015;7(1):01–4. 19.Gowda A, Kumar NV, Kasture P, Nagabhushan K. A pilot study to evaluate the effectiveness of Carica papaya leaf extract in increasing the platelet count in cases of dengue with thrombocytopenia. Indian Med Gaz. 2015;149:109–16. 20.Gadhwal AK, Ankit BS, Chahar C, Tantia P, Sirohi P, Agrawal RP. Effect of Carica papaya leaf extract capsule on platelet count in patients of dengue fever with thrombocytopenia. J Assoc Physicians India. 2016;64(6):22–6. 21. Kasture PN, Nagabhushan KH, Kumar A. A multi-centric, double-blind, placebo-controlled, randomized, prospective study to evaluate the efficacy and safety of Carica papaya leaf extract, as empirical therapy for thrombocytopenia associated with dengue fever. J Assoc Physicians India. 2016;64(6):15–20. 22.Adarsh V, Doddamane K, Kumar VD. Role of carica papaya leaf product in improving the platelet count in patients with dengue fever. Int J Res Med. 2017;6(2):63–8. 23.Srikanth BK, Reddy L, Biradar S, Shamanna M, Mariguddi DD, Krishnakumar M. An open-label, randomized prospective study to evaluate the efficacy and safety of Carica papaya leaf extract for thrombocytopenia associated with dengue fever in pediatric subjects. Pediatric Health Med Ther. 2019;10:5–11.</AbstractText>
+		<AbstractText Label="ACKNOWLEDGEMENTS" NlmCategory="ACKNOWLEDGEMENTS">None. Funding : Funding assistance provided by University of Colombo Research Grant No: AP/3/2/2017/CG/25 is gratefully acknowledged. </AbstractText>
+		</Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rajapakse</LastName>
+                    <ForeName>Senaka</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1965-6678</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Medicine, Faculty of Medicine, University of Colombo, 25, Kynsey Road, Colombo 8, Colombo, Sri Lanka. senaka@med.cmb.ac.lk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Silva</LastName>
+                    <ForeName>Nipun Lakshitha</ForeName>
+                    <Initials>NL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Medicine, Faculty of Medicine, General Sir John Kotelawela Defence University, Rathmalana, Sri Lanka.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weeratunga</LastName>
+                    <ForeName>Praveen</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Medicine, Faculty of Medicine, University of Colombo, 25, Kynsey Road, Colombo 8, Colombo, Sri Lanka.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodrigo</LastName>
+                    <ForeName>Chaturaka</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, School of Medical Sciences, University of New South Wales, Sydney, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sigera</LastName>
+                    <ForeName>Chathurani</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Parasitology, Faculty of Medicine, University of Colombo, Colombo, Sri Lanka.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fernando</LastName>
+                    <ForeName>Sumadhya Deepika</ForeName>
+                    <Initials>SD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Parasitology, Faculty of Medicine, University of Colombo, Colombo, Sri Lanka.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AP/3/2/2017/CG/25</GrantID>
+                    <Agency>University of Colombo</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Complement Altern Med</MedlineTA>
+            <NlmUniqueID>101088661</NlmUniqueID>
+            <ISSNLinking>1472-6882</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Carica papaya</Keyword>
+            <Keyword MajorTopicYN="N">Dengue</Keyword>
+            <Keyword MajorTopicYN="N">Papaya leaf extract</Keyword>
+            <Keyword MajorTopicYN="N">Thrombocytopaenia</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31601215</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12906-019-2678-2</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12906-019-2678-2</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31579630</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Development of a highly sensitive magneto-enzyme lateral flow immunoassay for dengue NS1 detection.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e7779</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.7779</ELocationID>
+            <Abstract>
+		<AbstractText Label="Author and article information" NlmCategory="UNASSIGNED">Tien V. Tran​1, Ba V. Nguyen​1, Thao T.P. Nguyen2, Tung T. Tran2, Khanh G. Pham1, Quang B. Le1, Binh N. Do1, Hung N. Pham1, Chuyen V. Nguyen1, Duong P.H. Dinh3, Van T. Ha4, Trang H.T. Doan2, Hoa Q. Le​2 Published September 25, 2019PubMed 31579630. 1.Military Medical University, Hanoi, Vietnam. 2.School of Biotechnology and Food Technology, Hanoi University of Science and Technology, Hanoi, Vietnam. 3.Nguyen Hue High School for Gifted Students, Hanoi, Vietnam. 4.Hanoi-Amsterdam High School for Gifted Students, Hanoi, Vietnam DOI : 10.7717/peerj.7779. Published : 2019-09-25 Accepted : 2019-08-28 Received : 2019-04-12 Academic Editor : Mario Alberto Flores-Valdez. Subject Areas : Biotechnology, Infectious Diseases. Keywords : Dengue virus, NS1 protein, Magnetic lateral flow immunoassay, Signal amplification, Rapid method. Copyright : © 2019 Tran et al.Licence : This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, reproduction and adaptation in any medium and for any purpose provided that it is properly attributed. For attribution, the original author(s), title, publication source (PeerJ) and either DOI or URL of the article must be cited. Cite this article : Tran TV, Nguyen BV, Nguyen TTP, Tran TT, Pham KG, Le QB, Do BN, Pham HN, Nguyen CV, Dinh DPH, Ha VT, Doan THT, Le HQ. 2019. Development of a highly sensitive magneto-enzyme lateral flow immunoassay for dengue NS1 detection. PeerJ 7:e7779 https://doi.org/10.7717/peerj.7779</AbstractText>
+                <AbstractText Label="Abstract" NlmCategory="UNASSIGNED">Background : Dengue infection represents a global health issue of growing importance. Dengue non-structural protein 1 (NS1) plays a central role in the early detection of the disease. The most common method for NS1 detection is testing by lateral flow immunoassays (LFIAs) with varying sensitivity. In this study, we present a highly sensitive magneto-enzyme LFIA for prompt diagnosis of dengue. Methods : We have demonstrated the development of a magneto-enzyme LFIA combining super-paramagnetic nanoparticles as labels and Biotin–Streptavidin signal amplification strategy to detect dengue NS1. Factors affecting the test performance including antibody pair, super-paramagnetic nanoparticle size, nitrocellulose membrane type, amounts of detection and capture antibodies, and amounts of Streptavidin-polyHRP were optimized. Analytical sensitivity and cross-reactivity were determined. Clinical performance of the novel assay was evaluated using a panel of 120 clinical sera. Results : This newly developed assay could detect NS1 of all four serotypes of dengue virus (DENV). The limit of detection (LOD) was found to be as low as 0.25 ng ml−1 for DENV-1 and DENV-3, 0.1 ng ml−1 for DENV-2, and 1.0 ng ml−1 for DENV-4. The LOD for DENV-2 was a 50-fold improvement over the best values previously reported. There was an absence of cross-reactivity with Zika NS1, Hepatitis B virus, Hepatitis C virus, and Japanese encephalitis virus. The sensitivity and specificity of the novel assay were 100% when tested on clinical samples. Conclusions : We have successfully developed a magneto-enzyme LFIA, allowing rapid and highly sensitive detection of dengue NS1, which is essential for proper management of patients infected with DENV.Cite this as : Tran TV, Nguyen BV, Nguyen TTP, Tran TT, Pham KG, Le QB, Do BN, Pham HN, Nguyen CV, Dinh DPH, Ha VT, Doan THT, Le HQ. 2019. Development of a highly sensitive magneto-enzyme lateral flow immunoassay for dengue NS1 detection. PeerJ 7:e7779 https://doi.org/10.7717/peerj.7779</AbstractText>
+		<AbstractText Label="Introduction" NlmCategory="UNASSIGNED">Dengue is a mosquito-borne disease caused by the dengue virus (DENV) of the family Flaviviridae. Although it has existed for centuries, dengue remains a global health issue with 3.6 billion people living with the risk of infection. An estimated 390 million dengue cases occur annually in tropical and subtropical regions such as South-East Asia, Western Pacific, and Africa (Bhatt et al., 2013; Brady et al., 2012; World Health Organization (WHO), 2019). Dengue is associated with symptoms of different severity, lasting from 3 days to 1 week. Severe dengue patients potentially suffer bleeding, low platelet level or plasma leakage, leading to dengue shock syndrome or death (Kularatne, 2015). Therefore, early and accurate diagnosis is critical for proper medical care and lowering the risk of severe complications. Presently, detection of non-structural protein 1 (NS1) antigen is a common approach for early diagnosis of dengue (Chaterji et al., 2011; Najioullah et al., 2011). Aside from being present in both primary and secondary infections, NS1 is detectable in the blood of patients from the first day of symptom onset, up to day 9 or early convalescence (Alcon et al., 2002; Young et al., 2000). NS1 could be detected by commercial enzyme-linked immunosorbent assay (ELISA) or lateral flow immunoassay (LFIA). In comparison to ELISA, LFIA displays several advantages, such as low cost, rapid, and simple operation, allowing point-of-care testing of dengue. However, several studies have pointed out that the sensitivities of commercial NS1 LFIAs are variable between investigations (Blacksell et al., 2011; Lima et al., 2010; Osorio et al., 2010; Pok et al., 2010; Zainah et al., 2009). A meta-analysis by Zhang et al. (2014) revealed that sensitivities of commercial LFIAs ranged from 48% (95% CI [38–59%]) to 90% (95% CI [87–93%]). Several strategies could be employed to enhance the sensitivity of LFIAs. For instance, the selection of antibody pairs, silver enhancement, using magnetic nanoparticles as the labeling material or signal amplification (Zherdev Dzantiev, 2018). Magnetic nanoparticles represent an attractive labeling material in LFIA (Huang et al., 2018; Linares et al., 2012; Wu et al., 2017). Signals generated by this material in the entire volume of the nitrocellulose membrane could be quantified by a Magnetic Reader (Wang et al., 2009), thus, potentially increasing the analytical sensitivity of the assay. Alternatively, a signal amplification step could be performed, allowing the observation of the results with the naked eye (Cho Irudayaraj, 2013). Combining the use of magnetic nanoparticles and a signal amplification step by horseradish peroxidase (HRP) allowed detecting directly Listeria monocytogenes within 2 h with the limit of detection (LOD) down to 95 CFU ml−1 (Cho Irudayaraj, 2013). In the present study, based on the same approach, we have developed a magneto-enzyme LFIA for detection of dengue NS1 with enhanced sensitivity.</AbstractText>
+		<AbstractText Label="Background" NlmCategory="UNASSIGNED">Dengue infection represents a global health issue of growing importance. Dengue non-structural protein 1 (NS1) plays a central role in the early detection of the disease. The most common method for NS1 detection is testing by lateral flow immunoassays (LFIAs) with varying sensitivity. In this study, we present a highly sensitive magneto-enzyme LFIA for prompt diagnosis of dengue.</AbstractText>
+                <AbstractText Label="Materials and Methods" NlmCategory="UNASSIGNED">Clinical samples and ethics statement : A panel of 120 sera was used to evaluate the clinical performance of the magneto-enzyme LFIA. The sera were obtained within 9 days post-onset of illness at Vietnam Military Medical University (Hanoi, Vietnam). All samples were tested for dengue RNA by RT-qPCR as previously described (Gurukumar et al., 2009) and also for dengue-specific IgM antibodies by Dengue IgG/IgM 3.0 Combo rapid test (CTK Biotech, Inc., Poway, CA, USA). Typing of positive samples was performed by nested RT-PCR (Lanciotti et al., 1992). Clinical samples positive for Hepatitis B virus (HBV) (viral load = 2.2 × 105 IU ml−1), Hepatitis C virus (HCV) (viral load = 4.3 × 104 IU ml−1), and Japanese encephalitis virus (positive with DRG® JE IgM Antibody Capture ELISA) were also collected to determine the cross-reactivity of the assay. All samples were stored at −80 °C until use. This study was approved by the Research Ethics Committee of Vietnam Military Medical University, Approval No. 18/QD-HDDD. Written informed consent was obtained from each participant or their legal guardians. Patients’ anonymity and confidentiality were guaranteed by the researchers involved in the study. Preparation of biotinylated, antibody-conjugated magnetic nanoparticles : Conjugation of the Carboxyl-Adembeads (with a diameter of 100, 200, or 300 nm; Ademtech, Pessac, France) with monoclonal antibodies (10-2699 from Fitzgerald, North Acton, MA, USA or HM164 from EastCoast Bio, North Berwick, ME, USA; mAb) was performed as per manufacturer’s specifications with some modifications. To form mAb-Adembead complexes, 100 µl (three mg) of Carboxyl-Adembeads was first activated by incubating, on a Dynal Biotech rotary shaker, Thermo Fisher Scientific, Dynal Biotech, Waltham, MA, USA (15 rpm), with 240 µl of 1-ethyl-3-(3-dimethylaminopropyl) carbodiimide (EDC) (Sigma, St. Louis, MO, USA) at the concentration of 10 mg ml−1. After activation step, excess of EDC was removed and the nanoparticles were washed with one ml of Activation Buffer 1× (#10101; Ademtech, Pessac, France). Conjugation was then carried out by incubating the nanoparticles with 150 µg of detection antibody at room temperature for 2 h on a Dynal Biotech rotary shaker (15 rpm). Blocking of free carboxyl groups on magnetic nanoparticles was performed by incubating the immunocomplexes with 600 µl of bovine serum albumin (Sigma, St. Louis, MO, USA) (BSA, 0.5 mg ml−1) at 37 °C for 30 min. After being washed with PBS 1×, primary amine groups of BSA and mAbs on the immunocomplexes were biotinylated using EZ-Link™ Sulfo-NHS-Biotin (Thermo Fisher Scientific, Waltham, MA, USA) as per manufacturer’s instructions. Specifically, the complexes were dissolved in 300 µl PBS 1× (pH = 7.4) before being mixed with 15 µl of 10 mM Sulfo-NHS-Biotin. The reaction mixture was incubated on a Dynal Biotech rotary shaker at 15 rpm for 2 h at room temperature before being washed with Storage buffer 1× (#10201; Ademtech, Pessac, France). The final product (biotinylated, mAb-conjugated magnetic beads) was stored in 1,500 µl of Storage buffer 1× (#10201; Ademtech, Pessac, France). Preparation of the immunochromatography strips : Test strips were manufactured according to Posthuma-Trumpie, Korf / Van Amerongen (2008). Briefly, a Linomat V (Camag, Muttenz, Switzerland) was used to dispense antibodies onto a nitrocellulose membrane of 2.5 cm wide. For the control line, goat anti-mouse IgG (M5899; Sigma, St. Louis, MO, USA) was dispensed at a dose of 2.0 µg cm−1 at the position two cm away from the dipping point. For the test line, capture antibody (10-2698 from Fitzgerald or HM026 from EastCoast Bio) was dispensed at a dose of 0.5–2.0 µg cm−1 at the position 1.5 cm away from the dipping point. The membrane was then dried for 2 h at 37 °C. An absorption pad (Extra Thick Blot Paper, BIO-RAD, Hercules, CA, USA) was applied to the dried membranes, which were then cut to a width of four mm by an Autokun cutter (Hangzhou Autokun Technology, Hangzhou, China). Finally, test strips were sealed in aluminum packages with a desiccation pad and stored at 4 °C until use. Three nitrocellulose membrane types were tested, namely CNPC-SS12, 10 µm with wicking time of 140 ± 28 s/40 mm (MDI Technologies, Ambala Cantt, India), UniSart® CN140 with wicking time of 95–155 s/40 mm, and UniSart® CN 95 with wicking time of 65–115 s/ 40 mm (Sartorius, Goettingen, Germany). Assay procedure : Briefly, 10 µl of sample was mixed with 90 µl of running buffer (PBS 1×; 0.5% BSA; 1% Tween®-20; (Sigma, St. Louis, MO, USA) pH = 7.4) and one to five µl of biotinylated, mAb-coated magnetic nanoparticles in a well of a low-binding 96-well plate (Corning, Corning, NY, USA) before being flowed vertically onto a LFIA strip. After 25 min, if brown signals are observed at both test line and control line, a positive result could be concluded. If the signal is only observed at the control line, a signal amplification step is carried out by dipping the test strip into a well containing 30 µl of Streptavidin-PolyHRP80 conjugate at the concentration of 1–10 ng ml−1 (Fitzgerald, Acton, MA, USA). The excess of Streptavidin-PolyHRP80 conjugate was washed by dipping the test strip into a new well containing 50 µl of the running buffer, followed by absorbent pad removal and application of 200 µl of 1-Step™ Ultra TMB-Blotting Solution (Thermo Fisher Scientific, Waltham, MA, USA) on the test strip. The enzyme-substrate reaction was maintained for 10 min at room temperature before reading the results. Analytical sensitivity and cross-reactivity : Analytical sensitivity of the magneto-enzyme LFIA was determined using recombinant NS1 of four dengue serotypes (The Native Antigen Company, Kidlington, UK). These recombinant antigens were produced in mammalian HEK293 cells (purity greater than 95%). Serial dilutions of each NS1 serotype were spiked into negative sera (confirmed by both RT-qPCR and Dengue IgG/IgM 3.0 Combo rapid test as described) and were subjected to analysis using the same procedure as above. The cross-reactivity of the developed assay was tested using recombinant NS1 from Zika virus at the concentration of 100 ng ml−1; an HBV-positive serum, an HCV-positive serum, and a Japanese encephalitis virus-positive serum. The analytical procedure was carried out the same as specified above. Data analysis : Data were analyzed according to Jacinto et al. (2018). For optimization experiments, test strips were captured by a Perfection V600 scanner (Epson, Suwa, Japan). Optical densities of test lines and control lines were digitalized to obtain signal values using ImageJ software (ver.1.47; HIH, Bethesda, MD, USA) (Schneider, Rasband / Eliceiri, 2012). The images were converted to 32-bit grayscale to acquire gray level intensities. A 40 × 140 pixels sq. region of interest was used to assess the signal intensities, which were then averaged by taking three or eight replications. GraphPad Prism 6.0 (GraphPad Software Inc., San Diego, CA, USA) was used to statistically analyze and graph the data. The LOD for each dengue serotype was determined as mean + 3SD of blank sample. Unpaired, two-tailed t-tests were performed to determine statistical significance. For testing clinical performance, results were read with the naked eye.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Principle of the magneto-enzyme lateral flow immunoassay : The concept of the magneto-enzyme LFIA developed in this study is to use biotinylated, mAb-conjugated magnetic nanoparticles as the detection complex. Biotin molecules on this complex allow subsequent binding with Streptavidin-polyHRP conjugates, generating amplified signals when TMB substrate is added. The assay consists of two main steps: (i) sample analysis on the lateral flow strip and (ii) signal amplification (Fig. 1). Specifically, sera of suspected dengue patients are diluted 10-fold in running buffer and mixed with biotinylated, mAb-coated magnetic nanoparticles in a well of a low-binding 96-well plate. The mixture was then allowed to flow onto the test strip by capillary force. When NS1-mAb-magnetic nanoparticle complexes reach the test line position, antigen-antibody sandwiches will be formed, consisting of capture antibodies, NS1, and the biotinylated magnetic nanoparticles. If dengue NS1 exists in high concentration in the specimens, test line signal could be observed directly (within 25 min). In case of low NS1 concentration (faint or no test line observed), a signal amplification step could be performed by flowing Streptavidin-polyHRP conjugates onto the test strip, washing off all the non-bound HRP conjugates and color development by TMB addition (total assay time of 90 min). Goat anti-mouse IgG, immobilized at the control line position, will always generate a signal of brown color, independent of the presence of dengue NS1 in the specimens. Figure 1: Schematic representation of the magneto-enzyme LFIA.(A) NS1-positive test strips without and with the signal amplification step. (B) The principle of the magneto-enzyme LFIA with associated legends. Briefly, the sample is diluted 10-fold in the running buffer and mixed with biotinylated, mAb-conjugated magnetic nanoparticles in a well of a 96-well plate. The mixture is then flowed onto a test strip, on which the capture antibody and anti-mouse IgG are immobilized at the test line and control line, respectively. The result could be read with the naked eye within 25 min. If no or faint test line is observed, a signal amplification step is performed by flowing Streptavidin-PolyHRP conjugates onto the test strip, followed by a washing step and color development by adding TMB substrate in order to confirm negative result. (C) Images of a typical test strip that requires the signal amplification step.DOI: 10.7717/peerj.7779/fig-1. Optimization of the magneto-enzyme lateral flow immunoassay : The performance of magneto-enzyme LFIA strongly depends on (1) antibodies used, (2) magnetic nanoparticles and nitrocellulose membranes, (3) capture antibody application, (4) amounts of detection complexes. Therefore, the effects of these parameters on the test performance were determined. Firstly, two antibody pairs from Fitzgerald (10-2698: capture antibody and 10-2699: detection antibody; pair #1) and EastCoast Bio (HM026: capture antibody and HM164: detection antibody; pair #2) were tested. At the same concentration of 20 ng ml−1, all the four DENV serotypes were detected using the two antibody pairs. However, pair #1 produced higher signal intensities, especially when detecting DENV-1 and 2 (Fig. 2; Fig. S1). Therefore, 10-2698 and 10-2699 (Fitzgerald) were chosen to be immobilized at the test line position and conjugated to magnetic nanoparticles, respectively. Since DENV-4 generated the lowest signal intensities, further optimizations were carried out using DENV-4 NS1. Figure 2: Selection of antibody pair for LFIA detecting dengue NS1. The performance of pair #1 (10-2698: capture antibody, 10-2699: detection antibody) and pair #2 (HM026: capture antibody, HM164: detection antibody) was evaluated for detection of 20 ng ml−1 NS1 of DENV-1, -2, -3, -4. Signal intensities were quantified and normalized by T/(T+C). T, test line signal; C, control line signal. DOI: 10.7717/peerj.7779/fig-2. Three different sizes (100, 200, and 300 nm) of Adembeads super-paramagnetic nanoparticle were tested. Immunocomplexes prepared from 300 nm Carboxyl-Adembeads were not able to migrate properly along the strip and caused aggregation at the dipping zone, which affected the readout (Fig. S2). Therefore, they were excluded from further analysis. Figure 3 clearly showed that super-paramagnetic nanoparticles with diameter of 200 nm displayed the best performance. Figure 3: Optimization of super-paramagnetic nanoparticle size for LFIA detecting dengue NS1. Detection conjugates prepared from 100-, 200-, and 300 nm- Carboxyl-Adembeads were mixed with 50 ng ml−1 DENV-4 NS1 and flowed onto LFIA test strips. Nanoparticles of 300 nm were not able to migrate properly along the test strips, therefore, only signals generated by 100 and 200 nm super-paramagnetic nanoparticles were quantified. T, test line signal; C, control line signal. DOI: 10.7717/peerj.7779/fig-3. A total of three nitrocellulose membrane types were also evaluated. The highest signals were obtained with the membrane type CNPC-SS12, 10 µm (Fig. 4; Fig. S3). Therefore, “CNPC-SS12, 10 µm” from MDI technologies was chosen for subsequent experiments. Figure 4: Selection of nitrocellulose membrane. Quantification of signal intensities of positive samples (50 ng ml−1 DENV-4 NS1) on three different nitrocellulose membrane types. T, test line signal; C, control line signal. DOI: 10.7717/peerj.7779/fig-4. In order to further increase the intensity of test line signals, the optimal amount of capture antibody to be immobilized at the test line was determined. Results showed that the intensity increased proportionally with the amount of antibody used, and reached the saturation when the capture antibody was immobilized at 1.5 µg cm−1 (Fig. 5; Fig. S4). The difference in signal intensity between immobilization of capture antibody at 1.5 µg cm−1 and that at 2.0 µg cm−1 was not statistically significant (P = 0.909). Figure 5: Optimization of amounts of capture antibody to be immobilized at the test line. Quantification of signal intensities of DENV-4 NS1 (50 ng ml−1) on LFIA strips when different amounts of anti-NS1 capture antibody were used. T, test line signal; C, control line signal. DOI: 10.7717/peerj.7779/fig-5. Similarly, amounts of mAb-magnetic bead complexes and Streptavidin-polyHRP conjugate were optimized. Increasing the amount of mAb-magnetic bead complexes could enhance signal intensities at the test line (Fig. 6; Fig. S5). From the results presented, five µl of biotinylated mAb-magnetic bead complexes were used for detection of NS1 antigen in the next experiments. For the Streptavidin-polyHRP conjugate, various concentrations ranging from one to 10 ng ml−1 were tested. High streptavidin-polyHRP concentration could enhance signal intensities at the test line (Fig. 7; Fig. S6). However, false-positive results were observed at the highest concentration tested (10 ng ml−1). As a result, the optimal concentration of HRP conjugates was five ng ml−1. Figure 6: Optimization of amounts of biotinylated, mAb-connjugated magnetic nanoparticles. Different amounts of biotinylated, mAb-conjugated magnetic nanoparticles were mixed with 50 ng ml−1 DENV-4 NS1 before analysis on LFIA test strips. Signal intensities at test lines were then quantified for each experimental condition. AU, arbitrary unit. DOI: 10.7717/peerj.7779/fig-6. Figure 7: Optimization of amounts of Streptavidin-polyHRP conjugate for signal amplification. Detection of DENV-4 NS1 on representative LFIA strips when different amounts of Streptavidin-polyHRP were used; 1, 5, negative control and positive sample (5 ng ml−1) with 10 ng ml−1 of Streptavidin-polyHRP; 2, 6, negative control and positive sample with 5.0 ng ml−1 of Streptavidin-polyHRP; 3, 7, negative control and positive sample with 2.0 ng ml−1 of Streptavidin-polyHRP. 4, 8, negative control and positive sample with 1.0 ng ml−1 of Streptavidin-polyHRP. DOI: 10.7717/peerj.7779/fig-7 . Analytical sensitivity : Different concentrations of NS1 antigen were spiked into negative sera to determine the analytical sensitivity of the magneto-enzyme LFIA. The assay could detect directly (without the signal amplification step) NS1 at 1.0 ng ml−1 for DENV-2; 2.5 ng ml−1 for DENV-1 and DENV-3; and 10 ng ml−1 for DENV-4 when observed with the naked eye (Figs. S7 and S8). With the additional signal amplification step, sensitivities were increased by 10-fold for all four serotypes: 0.1 ng ml−1 for DENV-2; 0.25 ng ml−1 for DENV-1 and DENV-3; and one ng ml−1 for DENV-4 (Fig. S9). A calibration curve of log(NS1 concentration) vs. test line signal was also plotted for each dengue serotype and the theoretical LOD was defined as mean of the blank + 3SD. Figure 8 showed that the LODs of our assay (without the signal amplification step) for NS1 from DENV-1, DENV-2, DENV-3, and DENV-4 were approximately 1.4, 0.7, 1.4, and 6.6 ng ml−1 respectively. Of note, LOD of the gold nanoparticle-based LFIA using the same antibody pair was 7.9 ng ml−1 for DENV-2 NS1 (Fig. S10). These results revealed that the use of 200 nm Carboxyl-Adembeads enhanced the analytical sensitivity of LFIA. To our knowledge, the assay developed in this research is the most sensitive NS1 test to date. Before this study, dengue NS1 (serotype 1) could be identified at the lowest concentration of 4.9 ng ml−1 (Kumar et al., 2018). Figure 8: Calibration curves and LOD of the developed assay for detecting NS1 antigen of DENV-1, DENV-2, DENV-3, and DENV-4. Calibration curves and LOD of the developed assay for detecting NS1 antigen of DENV-1 (A), DENV-2 (B), DENV-3 (C), and DENV-4 (D). The error bars represent the standard deviation of eight independent experiments. The LOD was defined as mean + 3SD of blank sample. DOI: 10.7717/peerj.7779/fig-8. Cross-reactivity tests : The specificity of our assay was assessed using recombinant NS1 from Zika virus and clinical samples with high viral loads of HBV, HCV, or Japanese encephalitis virus. Results showed an absence of cross-reactivity, even with NS1 from Zika virus (Fig. 9; Fig. S11). Figure 9: Cross-reactivity test against recombinant Zika NS1, HBV, HCV, and JEV clinical samples. (−), negative control; (+) DENV-2 NS1 (1 ng ml−1); Zika, recombinant NS1 of Zika virus (100 ng ml−1); HBV, HCV, clinical sera of Hepatitis B virus (viral load = 2.2 × 105 IU/ml), and Hepatitis C virus (viral load = 4.3 × 104 IU/ml); JEV, clinical serum positive with Japanese encephalitis virus IgM antibodies; TL, test line; CL, control line. DOI: 10.7717/peerj.7779/fig-9. Clinical performance : Among 120 clinical sera, six samples were found positive for both RT-qPCR and Dengue IgG/IgM 3.0 Combo rapid test, 64 samples were only found positive for RT-qPCR, and 50 samples were found negative by both tests (Table S1). Typing of positive samples by nested RT-PCR (Lanciotti et al., 1992) showed that 11 (15.7%) were positive with DENV-1, 55 (78.6%) were positive with DENV-2, and 4 (5.7%) were positive with DENV-4 (Fig. S12). This panel was then used to compare the analytical performance of the developed magneto-enzyme LFIA to that of Dengue Ag rapid test CE kit (CTK Biotech, Inc., Poway, CA, USA). The commercial assay detected only 66 out of 70 positive samples. By contrast, the magneto-enzyme LFIA developed in this study was able to detect all 70 positive sera from dengue-infected patients (Fig. S13). Of note, signal amplification by polyHRP-TMB reaction allowed the detection of four positive specimens that were found negative by the commercial assay (Fig. S13B). Moreover, these four samples were negative for IgM and IgG by Dengue IgG/IgM 3.0 Combo rapid test (CTK Biotech, Inc., Poway, CA, USA). Therefore, our assay is likely to be able to diagnose primary dengue infection at the very first days of the disease. Besides, no false positive results were obtained by both the commercial assay and the magneto-enzyme LFIA (Tables 1 and 2). To summarize, our magneto-enzyme assay showed higher sensitivity (100% vs. 94%) and accuracy (100% vs. 97%) than Dengue Ag rapid test CE (CTK Biotech, Poway, CA, USA); while the specificities of the two assays were equivalent (100%) (Table 3). These results also indicated that the developed assay could accurately detect DENV-1, -2, -4 NS1 in clinical samples. Table 1: Results of 120 clinical sera tested with Dengue Ag rapid test CE compared to RT-qPCR combined with Dengue IgG/IgM 3.0 Combo rapid test. DOI: 10.7717/peerj.7779/table-1. Table 2:Results of 120 clinical sera tested with magneto-enzyme LFIA compared to RT-qPCR combined with Dengue IgG/IgM 3.0 Combo rapid test. DOI: 10.7717/peerj.7779/table-2. Table 3: Comparison of performance parameters of the magneto-enzyme LFIA with those of Dengue Ag rapid test CE (CTK Biotech, Poway, CA, USA). DOI: 10.7717/peerj.7779/table-3.</AbstractText>
+                <AbstractText Label="Discussion" NlmCategory="UNASSIGNED">Dengue NS1 is a non-structural glycoprotein, associates as a dimer to cell membranes and is secreted into the blood as a hexameric lipoprotein particle (Muller / Young, 2013). Dengue NS1 could be detected by ELISA in the bloodstream of the infected patients from the first day of symptom onset up to day 9. Its concentration could reach up to 50 µg ml−1 in the sera of some DENV-infected patients (Alcon et al., 2002). Therefore, NS1 plays an essential role in early diagnosis of DENV infections (Bessoff et al., 2008; Blacksell et al., 2011; Datta / Wattal, 2010; Dussart et al., 2006; Kassim et al., 2011; Tricou et al., 2011). Initially, similar to the pioneering research of Cho / Irudayaraj (2013), the magneto-enzyme LFIA in this study consisted of three steps, namely immunomagnetic separation (IMS) with 1 h of incubation; LFIA; and signal amplification. Although this format allowed the detection of pure NS1 at the concentration as low as 0.02 ng ml−1 (data not shown), it caused bead aggregation at the dipping zone when tested with clinical sera. Consequently, the IMS step was removed from the procedure and samples were directly subjected to analysis on LFIA. Aggregation of super-paramagnetic nanoparticles on LFIA test strips was also observed by Wang et al. (2015). However, bead aggregation was not reported in the study of Cho / Irudayaraj (2013). This discrepancy could be due to the difference in sample matrices (milk samples vs. serum samples) and the size of the nanoparticle used (200 nm in our study vs. 30 nm in Cho / Irudayaraj (2013)). Although the use of SHP-30 carboxyl iron oxide nanoparticles could avoid bead aggregation, magnetic separation time would be too long for clinical application (up to 8 h) (Anonymous, 2017). Several commercial immunochromatographic tests for the rapid detection of DENV NS1 are available, such as Dengue NS1 Ag STRIP™ (Bio-Rad, Hercules, CA, USA), SD BIOLINE™ Dengue Duo (Abbott, Santa Clara, USA; former Alere Inc, Waltham, USA), and Dengue Ag rapid test CE (CTK Biotech, Poway, CA, USA). The advantages of these test comparing to ELISA and RT-PCR assays are simplicity and rapidity. Nevertheless, limited sensitivities of these commercial rapid tests were found in several cases (Osorio et al., 2010). In the present study, we have developed a signal amplification step to improve the sensitivity of LFIA for NS1 detection. This new assay allows highly-sensitive detection of NS1 with a detection limit as low as 0.1 ng ml−1 for DENV-2, a nearly 50-fold improvement over the value recently reported by Kumar et al. (2018). Of note, DENV-2 is the most prevalent serotype detected in our study and commonly associated with dengue hemorrhagic fever or severe dengue (Fried et al., 2010; Vicente et al., 2016). Therefore, the developed assay could represent an attractive diagnostic method to lower the risk of serious complications caused by this serotype. The high analytical sensitivity of our assay is mainly due to the use of biotinylated detection complex and Streptavidin-polyHRP conjugates. This signal amplification system allowed a 10-fold increase in the sensitivity of our assay. Although this step prolongs the assay time to approximately one and a half hours, which is significantly longer in comparison to other commercial LFIAs, our magneto-enzyme LFIA was able to detect four false negative results by the commercial CTK Dengue Ag rapid test CE kit. As mentioned above, these four samples were negative for both anti-dengue IgG and anti-dengue IgM. Therefore, our assay could allow the detection of primary dengue infections, even in the very early stage of the disease. Of note, most positive samples (66/70) were detected directly by our assay without the need of the signal amplification step, resulting in readouts within 25 min. Another critical factor that influences the sensitivity of our assay is the diameter of magnetic nanoparticles. If the particles could reach the detection zone, a larger bead size generates intense brown signals. Moreover, it allows more biotinylation sites, leading to improved signals after the amplification step by Streptavidin-polyHRP. On the other hand, a smaller size resulted in a better migrating capability along the test strip. In our study, Carboxyl-Adembeads with a diameter of 200 nm were found to be optimal, producing high signal intensities while retaining the ability to migrate properly on the membrane. In comparison to the standard gold nanoparticle-based LFIA, using 200 nm Carboxyl-Adembeads allowed an 11-fold improvement in sensitivity for the detection of DENV-2 NS1. It is notable that Wang et al. (2013) have successfully used the 300 nm Carboxyl-Adembeads for their super-paramagnetic lateral-flow immunoassay to detect Bacillus anthracis. This discordance might be due to the difference in the nitrocellulose membranes used between studies. In other magnetic LFIA platforms, signals at test lines and control lines could be quantified using a Magnetic Reader, which lower the LOD of the assay. However, this equipment is only available from few manufacturers (FoodChek™ MICT; MagnaBioSciences, San Diego, CA, USA; MagniaÂ® Reader; Magnasense, Vantaa, Finland) at a very costly price (more than 20,000 USD for FoodChek™ MICT). Therefore, these specialized magnetic readers are not applicable in clinical settings in developing countries. In order to eliminate the need for this specialized equipment, we have used a signal amplification strategy as described above. For most dengue-positive samples, which contain NS1 in high concentrations, this step is not required, and positive results could be obtained by our assay within 25 min. For patients infected with dengue at the early phase, NS1 may be present in low concentration, causing false negative results by conventional LFIAs. With the additional signal amplification step, the developed assay could detect a very low amount of NS1, thereby, preventing the false negative problem. Consequently, the magneto-enzyme LFIA developed in this study is particularly useful for the detection of dengue at the early stage of the disease, facilitating proper management of patients.</AbstractText>
+		<AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">In conclusion, we have successfully developed a magneto-enzyme LFIA that achieved a high sensitivity for the detection of dengue NS1. The LOD of our assay could reach as low as 0.1 ng ml−1 (for DENV-2), which is approximately 50 times lower than the best values previously reported. The new assay prospectively allows rapid and highly accurate diagnosis of dengue infections at point-of-care, which is imperative in management of patients and epidemic control.</AbstractText>
+		<AbstractText Label="Supplemental Information" NlmCategory="UNASSIGNED">Supplementary figures. DOI: 10.7717/peerj.7779/supp-1 Raw digital readouts for analytical sensitivity experiments (gold nanoparticle). DOI: 10.7717/peerj.7779/supp-2 Raw digital readouts for analytical sensitivity experiments. DOI: 10.7717/peerj.7779/supp-3 Raw digital readouts for optimization experiments. DOI: 10.7717/peerj.7779/supp-4 Testing results of dengue infection by RT-qPCR and Dengue IgG/IgM 3.0 Combo rapid test. DOI: 10.7717/peerj.7779/supp-5 Additional experiment results. DOI: 10.7717/peerj.7779/supp-6.</AbstractText>
+		<AbstractText Label="Additional Information and Declarations" NlmCategory="UNASSIGNED">Competing Interests : The authors declare that they have no competing interests. Author Contributions : Tien V. Tran conceived and designed the experiments, performed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft. Ba V. Nguyen conceived and designed the experiments, performed the experiments, contributed reagents/materials/analysis tools, authored or reviewed drafts of the paper, approved the final draft. Thao T.P. Nguyen conceived and designed the experiments, performed the experiments, analyzed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, approved the final draft. Tung T. Tran performed the experiments, analyzed the data, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft. Khanh G. Pham performed the experiments, approved the final draft. Quang B. Le performed the experiments, approved the final draft. Binh N. Do performed the experiments, approved the final draft. Hung N. Pham performed the experiments, approved the final draft. Chuyen V. Nguyen performed the experiments, approved the final draft. Duong P.H. Dinh performed the experiments, contributed reagents/materials/analysis tools, approved the final draft. Van T. Ha performed the experiments, contributed reagents/materials/analysis tools, approved the final draft. Trang H.T. Doan performed the experiments, approved the final draft. Hoa Q. Le conceived and designed the experiments, analyzed the data, contributed reagents/materials/analysis tools, prepared figures and/or tables, authored or reviewed drafts of the paper, approved the final draft. Ethics : The following information was supplied relating to ethical approvals (i.e., approving body and any reference numbers): The Research Ethics Committee in Biomedical Research of Military Medical University, Hanoi, Vietnam approved this study (No. 18/QD-HDDD). Data Availability : The following information was supplied regarding data availability: The raw data are available in the Supplemental Files. Funding : This research was funded by the Ministry of Science and Technology of Vietnam (grant no. 06/2014/HD-NDT). There was no additional external funding received for this study. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</AbstractText>
+		<AbstractText Label="References" NlmCategory="UNASSIGNED">Alcon S, Talarmin A, Debruyne M, Falconar A, Deubel V, Flamand M. 2002. Enzyme-linked immunosorbent assay specific to dengue virus type 1 nonstructural protein NS1 reveals circulation of the antigen in the blood during the acute phase of disease in patients experiencing primary or secondary infections. Journal of Clinical Microbiology 40(2):376-381 Anonymous. 2017. SuperMag multitube separator™ user guide. Bessoff K, Delorey M, Sun W, Hunsperger E. 2008. Comparison of two commercially available dengue virus (DENV) NS1 capture enzyme-linked immunosorbent assays using a single clinical sample for diagnosis of acute DENV infection. Clinical and Vaccine Immunology 15(10):1513-1518 Bhatt S, Gething PW, Brady OJ, Messina JP, Farlow AW, Moyes CL, Drake JM, Brownstein JS, Hoen AG, Sankoh O+8 more. 2013. The global distribution and burden of dengue. Nature 496(7446):504-507 Blacksell SD, Jarman RG, Bailey MS, Tanganuchitcharnchai A, Jenjaroen K, Gibbons RV, Paris DH, Premaratna R, De Silva HJ, Lalloo DG+1 more. 2011. Evaluation of six commercial point-of-care tests for diagnosis of acute dengue infections: the need for combining NS1 antigen and IgM/IgG antibody detection to achieve acceptable levels of accuracy. Clinical and Vaccine Immunology 18(12):2095-2101 Brady OJ, Gething PW, Bhatt S, Messina JP, Brownstein JS, Hoen AG, Moyes CL, Farlow AW, Scott TW, Hay SI. 2012. Refining the global spatial limits of dengue virus transmission by evidence-based consensus. PLOS Neglected Tropical Diseases 6(8):e1760 Chaterji S, Allen JC, Chow A, Leo YS, Ooi EE. 2011. Evaluation of the NS1 rapid test and the WHO dengue classification schemes for use as bedside diagnosis of acute dengue fever in adults. American Journal of Tropical Medicine and Hygiene 84(2):224-228 Cho IH, Irudayaraj J. 2013. Lateral-flow enzyme immunoconcentration for rapid detection of Listeria monocytogenes. Analytical and Bioanalytical Chemistry 405(10):3313-3319 Datta S, Wattal C. 2010. Dengue NS1 antigen detection: a useful tool in early diagnosis of dengue virus infection. Indian Journal of Medical Microbiology 28(2):107-110 Dussart P, Labeau B, Lagathu G, Louis P, Nunes MR, Rodrigues SG, Storck-Herrmann C, Cesaire R, Morvan J, Flamand M+1 more. 2006. Evaluation of an enzyme immunoassay for detection of dengue virus NS1 antigen in human serum. Clinical and Vaccine Immunology 13(11):1185-1189 Fried JR, Gibbons RV, Kalayanarooj S, Thomas SJ, Srikiatkhachorn A, Yoon I-K, Jarman RG, Green S, Rothman AL, Cummings DAT. 2010. Serotype-specific differences in the risk of dengue hemorrhagic fever: an analysis of data collected in Bangkok, Thailand from 1994 to 2006. PLOS Neglected Tropical Diseases 4(3):e617 Gurukumar KR, Priyadarshini D, Patil JA, Bhagat A, Singh A, Shah PS, Cecilia D. 2009. Development of real time PCR for detection and quantitation of dengue viruses. Virology Journal 6(1):10 Huang WC, Wu KH, Hung HC, Wang JC, Chang SC. 2018. Magnetic nanoparticle-based lateral flow immunochromatographic strip as a reporter for rapid detection of melamine. Journal of Nanoscience and Nanotechnology 18(10):7190-7196 Jacinto MJ, Trabuco JRC, Vu BV, Garvey G, Khodadady M, Azevedo AM, Aires-Barros MR, Chang L, Kourentzi K, Litvinov D+1 more. 2018. Enhancement of lateral flow assay performance by electromagnetic relocation of reporter particles. PLOS ONE 13(1):e0186782 Kassim FM, Izati MN, TgRogayah TA, Apandi YM, Saat Z. 2011. Use of dengue NS1 antigen for early diagnosis of dengue virus infection. Southeast Asian Journal of Tropical Medicine and Public Health 42(3):562-569 Kularatne SAM. 2015. Dengue fever. British Medical Journal 351:h4661 Kumar S, Bhushan P, Krishna V, Bhattacharya S. 2018. Tapered lateral flow immunoassay based point-of-care diagnostic device for ultrasensitive colorimetric detection of dengue NS1. Biomicrofluidics 12(3):034104 Lanciotti RS, Calisher CH, Gubler DJ, Chang GJ, Vorndam AV. 1992. Rapid detection and typing of dengue viruses from clinical samples by using reverse transcriptase-polymerase chain reaction. Journal of Clinical Microbiology 30(3):545-551 Lima MRQ, Nogueira RMR, Schatzmayr HG, Dos Santos FB. 2010. Comparison of three commercially available dengue NS1 antigen capture assays for acute diagnosis of dengue in Brazil. PLOS Neglected Tropical Diseases 4(7):e738 Linares EM, Kubota LT, Michaelis J, Thalhammer S. 2012. Enhancement of the detection limit for lateral flow immunoassays: evaluation and comparison of bioconjugates. Journal of Immunological Methods 375(1–2):264-270 Muller DA, Young PR. 2013. The flavivirus NS1 protein: Molecular and structural biology, immunology, role in pathogenesis and application as a diagnostic biomarker. Antiviral Research 98(2):192-208 Najioullah F, Combet E, Paturel L, Martial J, Koulmann L, Thomas L, Hatchuel Y, Cabié A, Cesaire R. 2011. Prospective evaluation of nonstructural 1 enzyme-linked immunosorbent assay and rapid immunochromatographic tests to detect dengue virus in patients with acute febrile illness. Diagnostic Microbiology and Infectious Disease 69(2):172-178 Osorio L, Ramirez M, Bonelo A, Villar LA, Parra B. 2010. Comparison of the diagnostic accuracy of commercial NS1-based diagnostic tests for early dengue infection. Virology Journal 7(1):361 Pok KY, Lai YL, Sng J, Ng LC. 2010. Evaluation of nonstructural 1 antigen assays for the diagnosis and surveillance of dengue in Singapore. Vector-Borne and Zoonotic Diseases 10(10):1009-1016 Posthuma-Trumpie GA, Korf J, Van Amerongen A. 2008. Development of a competitive lateral flow immunoassay for progesterone: influence of coating conjugates and buffer components. Analytical and Bioanalytical Chemistry 392(6):1215-1223 Schneider CA, Rasband WS, Eliceiri KW. 2012. NIH image to imageJ: 25 years of image analysis. Nature Methods 9(7):671-675 Tricou V, Minh NN, Farrar J, Tran HT, Simmons CP. 2011. Kinetics of viremia and NS1 antigenemia are shaped by immune status and virus serotype in adults with dengue. PLOS Neglected Tropical Diseases 5(9):e1309 Vicente CR, Herbinger K-H, Fröschl G, Malta Romano C, De Souza Areias Cabidelle A, Cerutti Junior C. 2016. Serotype influences on dengue severity: a cross-sectional study on 485 confirmed dengue cases in Vitória, Brazil. BMC Infectious Diseases 16(1):320 Wang D-B, Tian B, Zhang Z-P, Deng J-Y, Cui Z-Q, Yang R-F, Wang X-Y, Wei H-P, Zhang X-E. 2013. Rapid detection of Bacillus anthracis spores using a super-paramagnetic lateral-flow immunological detection system. Biosensors and Bioelectronics 42:661-667 Wang D-B, Tian B, Zhang Z-P, Wang X-Y, Fleming J, Bi L-J, Yang R-F, Zhang X-E. 2015. Detection of Bacillus anthracis spores by super-paramagnetic lateral-flow immunoassays based on “Road Closure”. Biosensors and Bioelectronics 67:608-614 Wang Y, Xu H, Wei M, Gu H, Xu Q, Zhu W. 2009. Study of superparamagnetic nanoparticles as labels in the quantitative lateral flow immunoassay. Materials Science and Engineering: C 29(3):714-718 World Health Organization (WHO). 2019. Dengue and severe dengue. Retrieved from Wu J, Dong M, Zhang C, Wang Y, Xie M, Chen Y. 2017. Magnetic lateral flow strip for the detection of cocaine in urine by naked eyes and smart phone camera. Sensors 17(6):1286 Young PR, Hilditch PA, Bletchly C, Halloran W. 2000. An antigen capture enzyme-linked immunosorbent assay reveals high levels of the dengue virus protein NS1 in the sera of infected patients. Journal of Clinical Microbiology 38(3):1053-1057 Zainah S, Wahab AH, Mariam M, Fauziah MK, Khairul AH, Roslina I, Sairulakhma A, Kadimon SS, Jais MS, Chua KB. 2009. Performance of a commercial rapid dengue NS1 antigen immunochromatography test with reference to dengue NS1 antigen-capture ELISA. Journal of Virological Methods 155(2):157-160 Zhang H, Li W, Wang J, Peng H, Che X, Chen X, Zhou Y. 2014. NS1-based tests with diagnostic utility for confirming dengue infection: a meta-analysis. International Journal of Infectious Diseases 26:57-66 Zherdev AV, Dzantiev BB. 2018. Ways to reach lower detection limits of lateral flow immunoassays. In: Anfossi L, ed. Rapid Test. Rijeka: IntechOpen. 10-43.</AbstractText>
+		<AbstractText Label="Related research" NlmCategory="UNASSIGNED">
+Characterization of dengue cases among patients with an acute illness, Central Department, Paraguay PeerJ Occurrence of concurrent infections with multiple serotypes of dengue viruses during 2013–2015 in northern Kerala, India PeerJ Ficus septica plant extracts for treating Dengue virus in vitro PeerJ Generation and characterization of cross neutralizing human monoclonal antibody against 4 serotypes of dengue virus without enhancing activity PeerJ MicroRNA profiling of mouse liver in response to DENV-1 infection by deep sequencing PeerJ Protective effects and mechanism of keratinocyte growth factor combined with hypoxia inducible factor-1α on intestinal crypt epithelial cells of rats with hypoxia stress Xu Qian et al., Chinese Journal of Burns, 2019 Effect of adenosine kinase small interfering RNA modified corneal endothelial cells on the proliferation and secretion of regulatory T cells Zhang Wanhong et al., Chinese Journal of Experimental Ophthalmology, 2019 Analysis of the serological testing results from Aier Eye Bank  Long Wenxiu et. al., Chinese Journal of Experimental Ophthalmology, 2018 Single Threshold May Not Be Feasible for Gestational Diabetes PracticeUpdate, 2018 Application of recombinase polymerase amplification in the detection of Pseudomonas aeruginosa  Jin Xiaojun et. al., Chinese Journal of Burns, 2018</AbstractText>
+		<CopyrightInformation>© 2019 Tran et al.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Tran</LastName>
+                    <ForeName>Tien V</ForeName>
+                    <Initials>TV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Military Medical University, Hanoi, Vietnam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Nguyen</LastName>
+                    <ForeName>Ba V</ForeName>
+                    <Initials>BV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Military Medical University, Hanoi, Vietnam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nguyen</LastName>
+                    <ForeName>Thao T P</ForeName>
+                    <Initials>TTP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Biotechnology and Food Technology, Hanoi University of Science and Technology, Hanoi, Vietnam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tran</LastName>
+                    <ForeName>Tung T</ForeName>
+                    <Initials>TT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Biotechnology and Food Technology, Hanoi University of Science and Technology, Hanoi, Vietnam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pham</LastName>
+                    <ForeName>Khanh G</ForeName>
+                    <Initials>KG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Military Medical University, Hanoi, Vietnam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le</LastName>
+                    <ForeName>Quang B</ForeName>
+                    <Initials>QB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Military Medical University, Hanoi, Vietnam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Do</LastName>
+                    <ForeName>Binh N</ForeName>
+                    <Initials>BN</Initials>
+                    <Identifier Source="ORCID">0000-0002-1377-3921</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Military Medical University, Hanoi, Vietnam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pham</LastName>
+                    <ForeName>Hung N</ForeName>
+                    <Initials>HN</Initials>
+                    <Identifier Source="ORCID">0000-0002-5458-8001</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Military Medical University, Hanoi, Vietnam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nguyen</LastName>
+                    <ForeName>Chuyen V</ForeName>
+                    <Initials>CV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Military Medical University, Hanoi, Vietnam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dinh</LastName>
+                    <ForeName>Duong P H</ForeName>
+                    <Initials>DPH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nguyen Hue High School for Gifted Students, Hanoi, Vietnam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ha</LastName>
+                    <ForeName>Van T</ForeName>
+                    <Initials>VT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hanoi-Amsterdam High School for Gifted Students, Hanoi, Vietnam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Doan</LastName>
+                    <ForeName>Trang H T</ForeName>
+                    <Initials>THT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Biotechnology and Food Technology, Hanoi University of Science and Technology, Hanoi, Vietnam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le</LastName>
+                    <ForeName>Hoa Q</ForeName>
+                    <Initials>HQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Biotechnology and Food Technology, Hanoi University of Science and Technology, Hanoi, Vietnam.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+            <ISSNLinking>2167-8359</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dengue virus</Keyword>
+            <Keyword MajorTopicYN="N">Magnetic lateral flow immunoassay</Keyword>
+            <Keyword MajorTopicYN="N">NS1 protein</Keyword>
+            <Keyword MajorTopicYN="N">Rapid method</Keyword>
+            <Keyword MajorTopicYN="N">Signal amplification</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31579630</ArticleId>
+            <ArticleId IdType="doi">10.7717/peerj.7779</ArticleId>
+            <ArticleId IdType="pii">7779</ArticleId>
+            <ArticleId IdType="pmc">PMC6765353</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">29916758</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1942-0870</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <MedlineDate>2018 Aug/Sep</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>mAbs</Title>
+                <ISOAbbreviation>MAbs</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Antigen dengue recognition by single-domain antibodies: structural latitudes and constraints.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>815-826</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/19420862.2018.1489633</ELocationID>
+            <Abstract>
+                <AbstractText Label="Abstract" NlmCategory="UNASSIGNED">Single-domain antibodies (sdAbs), the autonomous variable domains of heavy chain-only antibodies produced naturally by camelid ungulates and cartilaginous fishes, have evolved to bind antigen using only three complementarity-determining region (CDR) loops rather than the six present in conventional V<sub>H</sub>:V<sub>L</sub> antibodies. It has been suggested, based on limited evidence, that sdAbs may adopt paratope structures that predispose them to preferential recognition of recessed protein epitopes, but poor or non-recognition of protuberant epitopes and small molecules. Here, we comprehensively surveyed the evidence in support of this hypothesis. We found some support for a global structural difference in the paratope shapes of sdAbs compared with those of conventional antibodies: sdAb paratopes have smaller molecular surface areas and diameters, more commonly have non-canonical CDR1 and CDR2 structures, and have elongated CDR3 length distributions, but have similar amino acid compositions and are no more extended (interatomic distance measured from CDR base to tip) than conventional antibody paratopes. Comparison of X-ray crystal structures of sdAbs and conventional antibodies in complex with cognate antigens showed that sdAbs and conventional antibodies bury similar solvent-exposed surface areas on proteins and form similar types of non-covalent interactions, although these are more concentrated in the compact sdAb paratope. Thus, sdAbs likely have privileged access to distinct antigenic regions on proteins, but only owing to their small molecular size and not to general differences in molecular recognition mechanism. The evidence surrounding the purported inability of sdAbs to bind small molecules was less clear. The available data provide a structural framework for understanding the evolutionary emergence and function of autonomous heavy chain-only antibodies.</AbstractText>
+            	<AbstractText Label="Introduction" NlmCategory="UNASSIGNED">Single-domain antibodies (sdAbs) are the monomeric binding domains of heavy chain-only antibodies that have arisen through convergent evolution at least three times (twice in Chondrichthyes and once in Camelidae, roughly 220 and 25 million year ago, respectively1). The concept of autonomous, antigen binding-competent sdAbs was first described by Ward et al. in 1989,2 and several years later, naturally-occurring antibodies lacking light chains were discovered in dromedary camels3 and nurse sharks.4 The ~12–15 kDa variable domains of these antibodies (VHHs and VNARs, respectively; Figure 1) can be produced recombinantly and can recognize antigen in the absence of the remainder of the antibody heavy chain. The modular nature of VHHs and VNARs has been widely and productively exploited in the development of antibody-based drugs (reviewed in Ref.5). Structural studies of the first VHHs and VNARs isolated6,7 provided an early indication that these molecules might interact with antigens using mechanisms distinct from those of conventional antibodies. With hindsight, the notion that sdAbs might preferentially target particular types of antigenic structures may not seem totally unexpected, given their recombination from distinct repertoires of V, D and J genes (see Box 1),8 their potential ontogeny from separate B-cell precursors,9 and for camelid VHHs, their specialized constant regions bearing very long hinge regions.10 However, the specific mechanisms of sdAb antigen recognition (e.g., the tertiary structures and physicochemical properties of sdAb:antigen interfaces, which may differ fundamentally from those of conventional antibody:antigen interfaces) remain unclear, although several studies have suggested protein cleft recognition as a general function for both VHHs11 and VNARs.12 Over time, the idea that sdAbs can target ‘cryptic’ epitopes (so-called because they are inaccessible to conventional antibodies, either for steric reasons or due to their fundamental antigenic properties) has become entrenched, and although several case studies have supported it, its generality and implications are questionable. Several excellent recent reviews and opinion pieces have alluded to the nature of sdAb paratopes and their interactions with antigens, but have either not been rigorous in their approach or have incompletely addressed the topic, analyzing the properties of sdAb paratopes only, with no comparison to those of conventional antibodies.13–17 Thus, the aim of this review was to comprehensively investigate whether and how sdAb:antigen interactions differ from conventional antibody:antigen interactions, and to assess whether VHHs and VNARs share any similarities in this respect despite their evolutionary divergence. The answer to this question has direct relevance for the ‘druggable’ target space available to sdAbs vs. conventional antibodies. </AbstractText>
+		<AbstractText Label="Single-domain antibodies directed against folded proteins" NlmCategory="UNASSIGNED">As with conventional antibodies, the bulk of sdAbs studied have been directed against folded proteins. Certain regions and epitopes on folded proteins are inherently more immunogenic than others, a concept known as immunodominance. The immunological mechanisms underlying B-cell immunodominance are poorly understood, and patterns of immunodominance probably are not completely conserved across species.29 The first indication that sdAbs might preferentially target different sets of epitopes compared with conventional antibodies came from studies of anti-enzyme sdAbs (Table 1). Conventional antibodies can act as enzyme inhibitors, most commonly by inducing allosteric conformational changes or by sterically blocking substrate access to the active site.65 It was recognized from early structural studies of anti-lysozyme VHHs6 and VNARs7 that these molecules interacted with the enzyme in unusual fashion, probing deeply into its active site using extended complementarity-determining region (CDR)3 loops. These results were later replicated independently using additional VHs,51 VHHs11,47,48 and VNARs12 directed against the active site of lysozyme, as well as with active site-binding VHHs against α-amylase,31,32 carbonic anhydrase,32 and urokinase.62,63 Inhibition of α-amylase was achieved by one VHH through penetration of the active site cleft with its CDR2 loop,31 demonstrating that CDR3-centric binding is not the only mechanism of competitive enzyme inhibition by sdAbs. Competitive inhibition of these enzymes by conventional antibodies targeting their active sites has not been described despite intensive study, especially of murine antibodies against lysozyme. Naturally-occurring competitive inhibitors of protease enzymes are convex, and this appears to be a difficult geometry for the paratopes of conventional antibodies to achieve (see below): even in cases of near-true competitive inhibition, conventional antibodies use a flat or concave VH/VL interface to bind protruding regions on enzymes and partially insert one or more CDRs into the active site cleft in a non-substrate-like manner.66,67 This hypothesis is supported by experiments using purified polyclonal immunoglobulin (Ig)Gs from enzyme-immunized dromedaries showing that competitive inhibition was a feature of heavy chain-only IgGs, but not of conventional IgGs.11,32 It remains unclear why immunization with some enzymes yields mostly sdAbs with planar paratopes and bind outside the active site, achieving allosteric or no inhibition, although tolerance mechanisms may play a role. A second line of evidence clearly supporting distinct specificities of sdAbs vs. conventional antibodies can be found in studies of sdAbs against pathogenic microorganisms. Stijlemans et al.68 hypothesized that the ability of a dromedary VHH, cAb-An33, to target a cryptic glycopeptide epitope conserved across all variant surface glycoprotein classes of Trypanosoma brucei was due to the VHH’s small size as well as, potentially, the nature of this epitope. This hypothesis was supported by the inability of rabbit and dromedary polyclonal conventional antibodies as well as a ~90-kDa lectin to access this site. Henderson et al.69 suggested that recognition of a conserved hydrophobic cleft on Plasmodium AMA1 by a VNAR (12Y-2 and its affinity-matured variants) reflected a novel binding mode; although the epitope of a murine conventional antibody (1F9) substantially overlapped that of VNAR 12Y-2, 1F9 binding depended to a greater degree on polymorphic loop residues surrounding the hydrophobic trough. Likewise, Ditlev et al.70 attributed the binding of a panel of alpaca VHHs to multiple domains of the malarial VAR2CSA protein to an inherent ability of VHHs to recognize subdominant epitopes, although limited understanding of the human conventional antibody response against VAR2CSA as well as irreproducibility of these reactivity patterns by llama VHHs71 complicated this assessment. Probably the clearest examples of epitopes that are more favorable for binding by sdAbs than conventional antibodies can be found in the envelope glycoprotein trimer of HIV-1: heterologous cross-strain neutralization is extraordinarily difficult to achieve by conventional antibodies, requiring months of chronic infection and multiple rounds of somatic mutation and selection, yet cross-neutralizing camelid heavy chain-only antibodies directed against the CD4-binding site72-75 and CD4-induced sites76-78 can be easily elicited by routine immunizations with recombinant protein antigens. Similar examples can be found for other viral pathogens. Serotype cross-neutralizing antibodies targeting the CD155-binding ‘canyon’ of the poliovirus capsid are rarely produced by the murine or human humoral immune systems,79,80 but are apparently common in llama heavy-chain only responses.81 Likewise, VHHs targeting the HBGA-binding pocket of norovirus VP1 neutralized a broad range of genotypes,82 while larger conventional antibodies also made contact with antigenically variable residues surrounding the HBGA pocket and were thus strain-specific.83 Finally, compared with conventional antibodies, sdAbs have been implied to have privileged access to recessed sites on membrane proteins,84 such as ion channels and G protein-coupled receptors (GPCRs). While this is an intriguing hypothesis, it has yet to be substantiated by any data. Camelid VHHs generated against the Kv1.3 ion channel targeted extracellular loops, not the channel cavity,85 and the epitopes of VHHs against the P2X7 ion channel were not defined.86 Similarly, camelid VHHs developed as potential therapeutics against the chemokine receptors CXCR4,84 CXCR787 and ChemR23,88 as well as VHHs used as crystallization chaperones for several GPCRs, channels and transporters,89–95 all appear to bind solvent-exposed extracellular or intracellular loops of these receptors in a manner similar to conventional antibodies and their fragments. By contrast, a synthetic CXCR4-binding “i-body” engineered from an Ig-like NCAM domain was found to penetrate deep into the receptor’s ligand-binding pocket to occupy a truly cryptic, partially transmembrane epitope.96 Thus, there is at least some reason to believe that the small size of sdAbs may grant them access to recessed regions on pores and channels, although experimental evidence is still lacking. Overall, the evidence is compelling that camelid VHHs, at least, can interact with recessed epitopes on proteins that are poorly available for binding by conventional antibodies. Additional examples of binding to recessed epitopes on proteins (clefts, cavities, crevices or grooves) can be found for sdAbs against lactococcal siphophage,97 Plasmodium falciparum MTIP,98 epidermal growth factor receptor,99 and respiratory syncytial virus fusion protein,100 although in these cases it is less clear that these sites are inaccessible to conventional antibodies. While it is possible that VNARs may share similar cleft-binding proclivities, such claims are based on very limited published data (three structures7,12,69). Moreover, it should be noted that there are many examples (not covered in this review) of partial or complete overlap between the epitopes of sdAbs and conventional antibodies, and thus the degree to which sdAbs bind cryptic epitopes vs. conventional antibody-accessible epitopes, as well as whether the magnitude of this difference exceeds more general species-to-species reactivity differences of conventional antibodies, remain unknown.</AbstractText>
+		<AbstractText Label="Single-domain antibodies direct against linear protein epitopes" NlmCategory="UNASSIGNED">It is generally recognized that the majority of conventional antibodies raised against folded proteins are directed against conformational epitopes (≥90%101), although this may depend to some extent on the nature of the antigen. Several authors have suggested that VHHs, at least, are even less likely than conventional antibodies to bind linear peptides with high affinity.102,103 Although this is a plausible hypothesis based on the typical structures of sdAb paratopes (see below), it has not yet been substantiated by any data. Moreover, the relatively large number of studies reporting sdAb reactivity by western blotting suggests that sdAbs directed against continuous epitopes are probably not vanishingly rare.</AbstractText>
+		<AbstractText Label="Single-domain antibody paratope structures" NlmCategory="UNASSIGNED">The paratopes of conventional antibodies directed against folded proteins tend to be flat or concave;104 convex binding sites are difficult to achieve, at least by murine and human conventional antibodies, although synthetic conventional antibodies can be engineered to adopt such geometries.105 By contrast, sdAb paratopes can clearly adopt both flat106,107 and convex11 topologies, although possibly only inefficiently adopt concave ones. The CDR1 and CDR2 loops of VHHs depart from the typical canonical structures of conventional antibodies (Figure 2A), potentially through somatic mutation since germline human VH and camelid VHH repertoires appear to have similar canonical structures.18 Only a handful of VNARs have been crystallized, and several showed a structural class of CDR1 (H1-13–9) that is more common in VHHs than in conventional antibodies, although others had CDR1 canonical structures closer to those of VL domains. The CDR3 length distributions of both VHHs and VNARs (Figure 2B) are broader than those of conventional antibodies and biased towards longer lengths; the long CDR loops of sdAbs may be structurally constrained by non-canonical disulfide linkages (see Box 2). Despite potentially elevated somatic mutation rates (at least of VHHs), the paratopes of VHHs, VNARs and conventional antibodies have similar amino acid contents, all being enriched for Gly, Ser and Tyr, and their CDR sequences bear no obvious patterns of sequence homology (Figure 2C, D). Both VHH and VNAR paratopes have smaller molecular surface areas and smaller diameters than conventional antibodies (Figure 2E, F). However, sdAb paratopes as a group are not more globally extended than those of conventional antibodies, as reflected by the maximum interatomic distance between the tips and the bases of any CDR loop (Figure 2G).</AbstractText>
+		<AbstractText Label="Single-domain antibody:antigen interactions" NlmCategory="UNASSIGNED">The footprints of sdAbs on antigens are smaller than those of conventional antibodies, given that the paratopes of the former molecules are roughly half the size of the latter ones. Using only three CDR loops (two CDR loops and potentially two HV loops for VNARs), sdAbs can bury similar solvent-accessible surface areas on proteins compared with conventional antibodies (Figure 3A). This is made possible by a number of molecular contacts (hydrogen bonds, salt bridges) that is slightly lower for sdAbs than in conventional antibodies, but higher on a per-chain basis (Figure 3B, 3C). Moreover, the surface complementarity of sdAb:protein interfaces is on the high end for antibody:antigen interactions (Figure 3D). Thus, sdAbs and conventional antibodies bind protein antigens through similar types of non-covalent interactions, but these are more concentrated in the smaller paratopes of sdAbs.</AbstractText>
+		<AbstractText Label="Single-domain antibodies directed against small molecules" NlmCategory="UNASSIGNED">The dominant mechanism by which conventional antibodies interact with haptens, small-molecule lipids and oligosaccharides is by forming a binding pocket at the interface between the VH and VL domains, typically involving the bases of the CDR-H3 and CDR-L3 loops.113–115 Similarly, conventional antibodies tend to accommodate short linear peptides and nucleic acid polymers within grooves formed from both heavy- and light-chain CDRs.104 Four studies have reported structures of camelid VHHs in complex with haptens and peptides (Table 2); the recognition mechanism of all but one (a methotrexate-specific VHH with a non-canonical binding site involving framework region (FR)3 residues located below CDR1113) was basically similar to that of conventional antibodies, with the hapten-binding pocket formed from two or more CDRs and extending in some instances into the former VL interface. Notably, three of these VHHs have non-canonical structures of either CDR1 or CDR2 that have not been observed in structures of other VHHs and may not be germline-encoded. Multiple studies have reported the isolation of hapten-specific VHHs without investigating their structures,119 although several also reported weaker and inconsistent serum heavy chain-only IgG titers compared with conventional IgG titers against the hapten. No studies have reported hapten-specific VNARs, and only one study has described a carbohydrate-specific VHH directed against Neisseira meningitidis lipopolysaccharide;120 at least two camelid VHHs have been described that bind to glycopeptide epitopes.68,76 No sdAbs of any type have been described that convincingly bind lipids or nucleic acids. Together, the consensus of the data is that it is probably difficult, but not impossible, for sdAb paratopes to accommodate haptens and that three CDRs are sufficient to form the binding pockets and grooves required for such interactions, although potential involvement of solubility-enhancing FR2 residues at the former VL interface in pocket formation may impose restrictions on hapten-binding specificities.</AbstractText>
+		<AbstractText Label="Synthetic single-domain antibodies and non-antibody scaffolds" NlmCategory="UNASSIGNED">Fully synthetic sdAbs, derived from VHHs, VNARs or from rare human and murine VH and VL domains that remain stable and soluble outside the context of the natural VH:VL pairing, can be engineered to bind antigens using in vitro methods (e.g., phage display). More recently, technologies have been developed for generating semi-synthetic sdAbs using engineered cell lines capable of inducible V(D)J recombination121 and transgenic mice bearing either hybrid llama-human or fully human igh loci;122 in both cases, a limited set of VH, D and JH genes (some of which are in non-germline configurations to promote autonomous folding) are rearranged in a foreign cellular or in vivo system. Limited numbers of synthetic sdAbs have been described and fewer still have been studied structurally in complex with antigens. Nevertheless, the available data suggests that some synthetic sdAbs have cleft-binding properties akin to those of VHHs and VNARs51 while others employ unusual mechanisms to interact with planar protein epitopes (e.g., dramatic CDR3 restructuring of a MDM4-specific VH domain to accommodate packing against a hydrophobic helix;123 significant involvement of FRs in binding of VHs to vascular endothelial growth factor124,125 and CD40126 using distinct mechanisms). Even less is known regarding the paratope structures and binding modes of non-Ig-based antibodies such as variable lymphocyte receptors127 and non-antibody scaffolds (based on monomeric non-Ig domains such as fibronectin type III and SRC homology 3 domains), and their synthetic origin may imply that they follow no general patterns. If so, restrictions on the binding specificities of naturally-occurring sdAbs may not equally affect synthetic sdAbs and non-antibody scaffolds, although fundamental structural constraints on the amino acid sequences that can be tolerated by stable Ig folds would still apply.</AbstractText>
+		<AbstractText Label="Conclusions and perspectives" NlmCategory="UNASSIGNED">Recent work on unusual antibodies produced by unorthodox model organisms (e.g., cows, chickens) has spurred renewed interest in the comparative immunology of antibody responses. Some ‘cryptic’ regions on proteins (e.g., enzyme active sites, recessed regions of viral glycoproteins) are clearly more accessible to sdAbs than to conventional antibodies. More generally, we surmise that the major advantage of sdAb recognition is the ability to target conserved cleft and pocket regions (typically binding sites) on hypervariable pathogens without making ancillary contact with the easily mutable perimeters of these sites. Why and how pathogen selection produced two evolutionarily-unrelated sdAb systems in sharks and camelids, but not in other organisms, remains to be clarified. In the case of sdAbs, privileged access is conferred by their compact paratope diameters (in the absence of a paired VL domain) rather than any global difference in paratope shape or structure. Similar non-covalent interactions mediate the binding of conventional antibodies and sdAbs, although these are more efficiently concentrated in the compact paratopes of sdAbs to produce high-affinity interactions. Although it is likely that sdAb paratopes have difficulty adopting concave geometries and recognizing small molecules, it remains unclear whether such paratope restrictions disfavor interaction with certain types of protein epitopes as well. Future studies will need to rigorously assess the degree of separation and overlap in the protein epitope space targeted by sdAbs vs. conventional antibodies, and to explore whether sdAb-accessible (and inaccessible) epitopes can be predicted in silico. Basic studies of the immunological functions of conventional vs. heavy chain-only antibodies in host defense (e.g., neutralization; opsonization; antibody-dependent cell-mediated cytotoxicity and complement-dependent cytotoxicity) would also be highly valuable. Given the apparent sufficiency of sdAb paratopes to mediate high-affinity interactions with proteins, both the evolutionary forces responsible for shaping the more complex paired VH:VL antibody system in vertebrates, as well as the overall functions of light chains, are open questions.</AbstractText>
+	    </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Henry</LastName>
+                    <ForeName>Kevin A</ForeName>
+                    <Initials>KA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Human Health Therapeutics Research Centre , National Research Council Canada , Ottawa , Ontario , Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MacKenzie</LastName>
+                    <ForeName>C Roger</ForeName>
+                    <Initials>CR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Human Health Therapeutics Research Centre , National Research Council Canada , Ottawa , Ontario , Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>b School of Environmental Sciences , University of Guelph , Guelph , Ontario , Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>MAbs</MedlineTA>
+            <NlmUniqueID>101479829</NlmUniqueID>
+            <ISSNLinking>1942-0862</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D022801">Complementarity Determining Regions</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000939">Epitopes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D061905">Single-Domain Antibodies</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001666" MajorTopicYN="N">Binding Sites, Antibody</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002161" MajorTopicYN="N">Camelids, New World</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D022801" MajorTopicYN="N">Complementarity Determining Regions</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018360" MajorTopicYN="N">Crystallography, X-Ray</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000939" MajorTopicYN="N">Epitopes</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061905" MajorTopicYN="N">Single-Domain Antibodies</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">VHH</Keyword>
+            <Keyword MajorTopicYN="Y">VNAR</Keyword>
+            <Keyword MajorTopicYN="Y">antibody:antigen interaction</Keyword>
+            <Keyword MajorTopicYN="Y">epitope</Keyword>
+            <Keyword MajorTopicYN="Y">molecular recognition</Keyword>
+            <Keyword MajorTopicYN="Y">paratope</Keyword>
+            <Keyword MajorTopicYN="Y">single-domain antibody</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>6</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>6</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29916758</ArticleId>
+            <ArticleId IdType="doi">10.1080/19420862.2018.1489633</ArticleId>
+            <ArticleId IdType="pmc">PMC6260137</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Mol Immunol. 2008 Jul;45(12):3477-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18023478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Structure. 1999 Apr 15;7(4):361-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10196124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Vaccine Immunol. 2006 Oct;13(10):1079-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16928888</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2013 Dec 5;504(7478):101-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24256733</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Mol Biol. 2014 Nov;21(11):990-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25326704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2016 Jun 10;291(24):12641-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27036939</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycobiology. 2015 Sep;25(9):920-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26033938</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1998 Jul 1;17(13):3512-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9649422</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2016 Feb 19;291(8):3767-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26677230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2001 Aug 3;311(1):123-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11469862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2011 Jul 19;477(7366):549-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21772288</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2016 Aug 15;32(16):2451-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27153634</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Nov 4;105(44):17121-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18957538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2012 Jun 4;209(6):1091-103</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22641382</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2013 Dec 10;110(50):20242-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24277851</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2016 Mar 15;196(6):2893-901</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26864035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Structure. 2013 Jul 2;21(7):1214-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23791944</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Transl Med. 2016 Nov 23;8(366):366ra162</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27881823</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2013 Mar 15;450(3):477-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23289540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2017 Jun 13;7(1):3385</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28611361</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2015 May 8;290(19):11905-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25737448</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2017 Feb 13;8:14158</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28194013</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Structure. 2007 Nov;15(11):1452-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17997971</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Immunol. 2004 Sep;34(9):2551-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15307187</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunogenetics. 2002 Apr;54(1):39-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11976790</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Immunol. 2000 Aug;37(10):579-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11163394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2014 Aug 26;426(17):3057-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24907552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2015 Jan 19;5:7850</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25597743</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2002 Jun 28;277(26):23645-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11960990</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2016 Jan 13;90(7):3496-505</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26764003</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2015 Jan;43(Database issue):D432-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25392411</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Dec 11;104(50):19784-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18077410</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2014 Aug 21;512(7514):276-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25119048</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Sci. 2009 Mar;18(3):619-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19241371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol Methods. 2014 Mar;405:35-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24444705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Aug 24;101(34):12444-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15304650</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2016 Mar 11;291(11):5500-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26728464</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antiviral Res. 2014 Aug;108:36-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24824031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2008 Oct 21;47(42):11041-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18816062</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1996 Oct 11;262(5):732-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8876650</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2017 Apr 19;7:46641</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28422165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Open Biol. 2016 Jul;6(7):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27411893</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2010 Mar 26;285(13):9657-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20093370</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2016 Jun 02;6:27055</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27251573</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Nov 23;107(47):20565-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21059953</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2016 Jul 17;428(14):2860-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27216500</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Protoc. 2014 Mar;9(3):674-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24577359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 1998 Sep 1;32(4):515-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9726420</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2012 Nov 15;448(1):73-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22920187</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Immunol. 2015 Jun;65(2):384-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25749705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Immunol. 2016 Jun;40:7-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26922135</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2008 Aug 1;181(3):2001-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18641337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(3):e33298</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22438910</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2010 Apr 9;397(4):1106-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20138889</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Biol. 1996 Sep;3(9):803-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8784355</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Phys Chem B. 2013 Oct 24;117(42):13245-13258</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23919586</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2011 May 6;408(3):462-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21392506</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Recognit. 2017 Apr;30(4):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27862476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Endocrinol Suppl (Copenh). 1975;194:133-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">47683</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2013 Sep;87(18):10173-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23843638</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1995 Mar 9;374(6518):168-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7877689</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Mar 21;103(12):4586-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16537393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MAbs. 2015;7(1):15-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25523873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Eng. 1994 Sep;7(9):1129-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7831284</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2001 Oct;45(10):2807-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11557473</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2003 Aug 14;424(6950):783-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12917687</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Struct Biol. 2017 Aug;45:10-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27865111</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2001 Jul 13;276(28):26285-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11342547</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2016 Sep 27;6:34303</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27670069</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2015 Aug 20;524(7565):315-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26245379</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2014 Apr 1;459(1):59-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24438162</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MAbs. 2016;8(2):264-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26652308</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2014 Dec 09;4:7373</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25487735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2013 Oct 11;288(41):29562-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23979133</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Thromb Haemost. 2010 Jun;8(6):1302-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20180900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2011 Mar 18;407(1):138-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21238460</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1998 Nov 24;95(24):14343-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9826702</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1989 Oct 12;341(6242):544-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2677748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2003 Jan;21(1):77-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12483224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2017 Nov 2;13(11):e1006636</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29095961</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2000 Feb 15;39(6):1217-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10684599</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Negl Trop Dis. 2017 Sep 15;11(9):e0005932</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28915239</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2007 Mar 23;367(2):358-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17258766</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2004 Sep 17;305(5691):1770-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15319492</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2013 Jun 26;425(12):2247-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23507309</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Bioanal Chem. 2016 Sep;408(22):5985-6002</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27209591</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2007 Nov;21(13):3490-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17575259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Structure. 2016 Jan 5;24(1):148-157</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26712277</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Jan 9;279(2):1256-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14527957</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Sci. 2011 Jul;20(7):1196-207</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21557375</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2005 Sep;23(9):1126-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16151406</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014 Jan 21;9(1):e84981</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24465459</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Struct Biol. 2015 Jun;32:1-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25614146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Eng. 1997 May;10(5):607-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9215580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2013 Apr 9;110(15):E1371-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23530214</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2014 Dec 18;10(12):e1004552</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25522326</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1993 Jun 3;363(6428):446-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8502296</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2010 May 15;184(10):5696-704</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20404276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2016 Dec 27;113(52):14970-14975</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27965386</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biochem Parasitol. 2013 Aug;190(2):87-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23831371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2015 Mar 6;347(6226):1113-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25745166</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2011 Jan 13;469(7329):175-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21228869</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Infect Dis. 2013 Sep;17(9):e723-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23561799</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2016 Jul 15;291(29):15156-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27226628</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2008 Jul 4;380(2):351-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18514224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunogenetics. 2002 Oct;54(7):501-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12389098</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2012 Jan 13;287(3):1970-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22128183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2008;3(10):e3524</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18949046</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Immunol. 1997 Nov-Dec;34(16-17):1121-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9566760</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2011 Aug;9(8):e1001120</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21829328</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Dec;82(24):12069-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18842738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MAbs. 2015;7(4):693-706</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26018625</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2018 Apr 27;430(9):1350-1367</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29596914</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2010 Sep 17;402(2):326-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20620148</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Mol Biol. 2010 Jan;17(1):133-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20010839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2000 Mar 1;19(5):921-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10698934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2017 Oct 30;7(1):14289</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29084989</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Thromb Haemost. 2011 Nov;9(11):2268-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21883886</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2007 Jan 1;23(1):127-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17050570</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2013 Jan;87(2):1137-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23152508</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2016 Oct 4;113(40):E5830-E5837</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27647885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Immunol. 2016 Dec 19;7:619</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28066429</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Apr 8;280(14):14114-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15659390</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2009 Feb 6;385(5):1578-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19084022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2016 Sep 02;11(9):e0161801</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27588755</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">29410670</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>02</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1664-3224</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>9</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Frontiers in immunology</Title>
+                <ISOAbbreviation>Front Immunol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Editorial:dengue single-domain antibodies-biology, engineering and emerging applications.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>41</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3389/fimmu.2018.00041</ELocationID>
+	    <Abstract>
+ 		<AbstractText Label="Abstract" NlmCategory="UNASSIGNED">Single-domain antibodies (sdAbs), the autonomous variable domains of heavy chain-only antibodies produced naturally by camelid ungulates and cartilaginous fishes, have evolved to bind antigen using only three complementarity-determining region (CDR) loops rather than the six present in conventional V<sub>H</sub>:V<sub>L</sub> antibodies. It has been suggested, based on limited evidence, that sdAbs may adopt paratope structures that predispose them to preferential recognition of recessed protein epitopes, but poor or non-recognition of protuberant epitopes and small molecules. Here, we comprehensively surveyed the evidence in support of this hypothesis. We found some support for a global structural difference in the paratope shapes of sdAbs compared with those of conventional antibodies: sdAb paratopes have smaller molecular surface areas and diameters, more commonly have non-canonical CDR1 and CDR2 structures, and have elongated CDR3 length distributions, but have similar amino acid compositions and are no more extended (interatomic distance measured from CDR base to tip) than conventional antibody paratopes. Comparison of X-ray crystal structures of sdAbs and conventional antibodies in complex with cognate antigens showed that sdAbs and conventional antibodies bury similar solvent-exposed surface areas on proteins and form similar types of non-covalent interactions, although these are more concentrated in the compact sdAb paratope. Thus, sdAbs likely have privileged access to distinct antigenic regions on proteins, but only owing to their small molecular size and not to general differences in molecular recognition mechanism. The evidence surrounding the purported inability of sdAbs to bind small molecules was less clear. The available data provide a structural framework for understanding the evolutionary emergence and function of autonomous heavy chain-only antibodies.</AbstractText>
+            	<AbstractText Label="Biology of Single-Domain Antibodies" NlmCategory="UNASSIGNED">Although no manuscripts describe the immunobiology of sdAbs themselves, Arbabi-Ghahroudi provides a historical perspective on the discovery and development of camelid sdAbs and highlights how much of the molecular ontogeny of sdAbs still remains poorly understood. Nonetheless, sdAbs have proven to be valuable research tools, especially for studying cellular biology, and two reviews summarize applications of sdAbs in fundamental research. Beghein and Gettemans review and thoroughly assess the current status of sdAbs as research tools in three main areas: (i) the preparation and use of labeled sdAbs in fluorescent microscopy, (ii) the application of sdAbs to the study of protein–protein interactions, and (iii) the use of sAbs as an alternative to RNAi in exploring protein function. They also touch on the usefulness of sdAbs as protein crystallization chaperones in structural biology. Traenkle and Rothbauer briefly review recent development of sdAbs for advanced cellular imaging (“chromobodies”) with a focus on (i) live-cell imaging to visualize the dynamics of cytoskeletal proteins and nuclear components and (ii) the advantages and challenges of using sdAbs in super-resolution microscopy. The ability of sdAbs to be expressed in mammalian cell cytosol and to tolerate fusion with a variety of tags are pivotal in these applications.</AbstractText>
+		<AbstractText Label="Discovery, Engineering, and Characterization of Single-Domain Antibodies" NlmCategory="UNASSIGNED">One methods article, one original research article and one technology report deal with new approaches to camelid sdAb discovery. Historically, most sdAbs have been isolated by selection from in vitro display libraries, yielding binders with desired properties to a target antigen. Deschaght et al. applied a next-generation DNA sequencing (NGS) approach to the identification of antigen-specific sdAbs from a phage-displayed VHH library constructed from the lymphocytes of an immunized llama. NGS analysis of sdAb-displaying phage enriched after a single round of panning against RON receptor tyrosine kinase correctly identified 35 known binders as well as a large diversity of functional sdAbs that were missed by conventional screening of the same library. Hussack et al. describe the application of an anti-bovine serum albumin (BSA) VHH with unique properties (“ABTAG”) to the medium-throughput affinity screening of sdAbs by surface plasmon resonance. The authors found that sdAb–ABTAG dimers bound to a BSA surface could be completely dissociated using low pH, over multiple cycles, without loss of surface activity, and exploited this to recover rare ultra-high-affinity VHHs against CEACAM6 that were missed by panning of a phage-displayed VHH library. Eden et al. describe protocols they have developed for DNA immunization of camelids and identification of sdAbs against membrane proteins; historically, this has been an arduous and unreliable process in large outbred animal species. One original research article and one technology report describe new approaches to the isolation of human sdAbs. Henry et al. designed a set of novel phage-displayed sdAb libraries, constructed by synthetic randomization of rare fully human autonomous VH and VL domains, and provide a molecular explanation for the variable success rates in obtaining antigen-specific binders from such libraries: in the absence of solubilizing framework mutations akin to those of camelid VHHs, fully human sdAbs rely heavily on their CDR sequences both for stability and solubility as well as for binding, imposing fundamental limitations on the sequences of these molecules. One potential workaround is to increase throughput, and Drabek et al. describe an automatable high-throughput technology for isolating fully human, soluble, high-affinity antigen-specific HCAbs. Building upon a previous generation of transgenic mice bearing hybrid llama-human igh loci (llama VHH genes; human D, J, and C genes), the authors have constructed a new transgenic mouse line (4HVH) whose igh locus contains germline human VH, D, and J genes as well as human C genes lacking the CH1 exon. HEK293T cells in microtiter plates are transfected with DNA encoding HCAbs derived from bone marrow and spleen plasma cells of immunized mice and positive clones identified by ELISA. The method thus relies on the apparatus of the murine immune system to rearrange, select, and affinity mature human VH domains with good biophysical properties. One original research paper and one review deal with engineering sdAbs for higher affinity and improved stability, respectively. Tiller et al. describe a novel approach to sdAb affinity maturation involving (i) identification of CDR residues amenable to randomization by computational and experimental alanine scanning mutagenesis, (ii) conservative randomization of permissive positions with a mixture of the wild-type residue and frequent, naturally occurring residues, and (iii) screening of the resulting libraries by yeast display to identify sdAbs bearing combinations of mutations conferring ≥5-fold affinity gains. Careful analysis of each variant revealed that CDR sequence deviation involves complex tradeoffs between sdAb affinity, specificity, and stability. Goldman et al. give a good overview of the literature on engineering sdAbs for improved stability, including (i) strategies to increase the stability of camelid and shark sdAbs (e.g., through framework mutation or introduction of non-canonical disulfide bonds) and (ii) analytical techniques for assessing sdAb stability.</AbstractText>
+		<AbstractText Label="Single-Domain Antibodies as Diagnostics" NlmCategory="UNASSIGNED">Because of their generally high stability and low cost of production in microbial systems, sdAbs have been viewed as potentially superior alternatives to conventional antibodies in diagnostic applications. One review and two original research articles focus on diagnostic applications of sdAbs. Gonzalez-Sapienza et al. summarize the pros and cons of sdAbs in analytical and diagnostic applications and review recent developments that highlight the potential of sdAbs in immunodetection technologies. Stijlemans et al. review the use of sdAbs as reagents for the diagnosis and treatment of African trypanosomiasis (AT). Current diagnostic procedures for AT are inadequate, and there is no effective vaccine; chemotherapy is the only treatment but involves high drug toxicity and increasing drug resistance. Anti-AT sdAbs have shown promise for the detection of several parasite antigens as well as for targeted drug delivery, and may even exert Fc-independent trypanolytic activity. Harmsen et al. report on their latest efforts to isolate VHHs for use in quality control of foot-and-mouth disease vaccines. Only intact inactivated viral particles are efficacious vaccine antigens but intact virus can dissociate to yield ineffective capsid degradation products; reagents specific for intact virus and broadly cross-reactive with multiple viral strains are therefore needed.</AbstractText>
+		<AbstractText Label="Single-Domain Antibodies as Therapeutics" NlmCategory="UNASSIGNED">Two reviews and one perspective article on various aspects of tumor imaging and tumor targeting highlight the intense interest in the development of sdAbs for cancer therapy. Xenaki et al. provide a cell biologist’s perspective on the factors (primarily relating to molecular size and binding properties) that govern intratumoral uptake and distribution of antibodies and antibody fragments. Hu et al. review recent progress in developing sdAbs as targeting modules for drug delivery systems, including (i) toxins, enzymes, and cytokines; (ii) liposomes, extracellular vesicles, micelles, microbubbles, and nanoparticles; and (iii) viral vectors. They also discuss emerging technologies for intracellular delivery of sdAbs and sdAbs as tools for molecular imaging. Arezumand et al. review the development of anti-angiogenic sdAbs for diagnosis and treatment of cancer. In the development of therapeutic antibodies, an advantage of sdAbs is the relative ease of reformatting them into more complex and efficacious molecules. Nosenko et al. offer a brief perspective on their efforts to develop bispecific TNF inhibitors using sdAbs: one arm of these molecules binds and neutralizes TNF-α, while the second arm targets the effects of the antibody to specific populations of macrophages and monocytes. Two original research articles from Ablynx illustrate the potential of linking two or more sdAbs using polypeptide linkers. Beirnaert et al. elucidated the crystal structures of three VHHs in complex with TNF. The structures revealed the molecular basis of the very high neutralization potency of a heterodimeric construct in which two of the VHHs recognizing distinct epitopes are linked by a nine residue linker: the biparatopic VHH:VHH heterodimer engages both arms in an intramolecular fashion on a single TNF molecule and blocks two of three receptor-binding sites, but only in one of the two possible VHH orientations. Similarly, Desmyter et al. developed high-affinity VHHs against IL23, and, based on the crystal structures of three VHHs in complex with IL23, rationally designed multivalent sdAb dimers with high IL23 neutralization activity using molecular linkers of appropriate length. A biparatopic sdAb-based heterotrimer in which two anti-IL23 VHHs flanked an anti-human serum albumin (HSA) VHH (for serum half-life extension) was a more potent neutralizer than any single anti-IL23 VHH fused to the same albumin binder. Three original research articles from Elasmogen demonstrate the modularity and therapeutic utility of shark VNARs. Kovaleva et al. report that anti-ICOSL VNARs selected from an immune nurse shark phage display library and reformatted as Fc-fusions markedly reduced inflammation in a mouse model of inflammatory eye disease, uveitis, when administered systemically. The observation that VNARs, but not IgGs and VNAR–Fcs, could penetrate the cornea when applied topically at high concentration raises the hope that these VNARs (in multivalent formats lacking Fc) might be useful for topical treatment of uveitis. Extending the results of Beirnaert et al. using llama VHHs, Ubah et al. isolated immune shark VNARs against TNF and reformatted them, first as VNAR:VNAR homo- and heterodimers and then as tetravalent biparatopic VNAR–Fcs. Even in the absence of structural information, the authors were able to achieve a ~50,000-fold improvement in the neutralizing potency of the VNAR monomer through molecular reformatting. Steven et al. optimized two previously humanized versions of an anti-HSA VNAR domain which had less desirable biophysical properties than the parental VNAR. After random mutagenesis of the two humanized domains and a phage display selection process, mutants with acceptable biophysical properties were obtained without compromising affinity or species cross-reactivity and extended serum half-life in a rat PK model. When fused in tandem with other humanized VNAR moieties, the optimized anti-HSA VNAR (BA11) should be useful for clinical studies. Finally, Tian et al. from Helix BioPharma describe the optimized construction of an immunoconjugate in which an anti-VEGFR2 VHH is linked to urease. The sdAb targets the immunoconjugate to tumor vasculature, where urease enzymatically converts endogenous urea to ammonia resulting in both direct and indirect antitumor effects. A similar conjugate targeting a non-small-cell lung cancer antigen is currently in clinical trials (http://www.helixbiopharma.com/).</AbstractText>
+		<AbstractText Label="Antiviral Single-Domain Antibodies" NlmCategory="UNASSIGNED">One review and two original research articles describe applications of sdAbs directed against viruses in basic research, diagnostics, and biodefense. Wu et al. review the current state of knowledge on sdAb targeting and neutralization of human-tropic viruses and illustrate the potential of sdAbs to probe different sets of epitopes on viral glycoproteins compared to conventional antibodies. Darling et al. investigated the ability of tandem sdAb dimers directed against repetitive epitopes of filoviral nucleoproteins (“Xintrabodies” or cross-linking intrabodies) to cross-link capsid proteins and inhibit viral replication. Minimal amounts of Xintrabody ablated nucleoprotein incorporation into viral particles despite the presence of large amounts of nucleoprotein in the cytoplasm. In a companion manuscript, Garza et al. present the crystal structures of three of the sdAbs in complex with the nucleoprotein of Marburg virus, an agent causing viral hemorrhagic fever and a bioterror threat. The sdAbs bind to a cryptic epitope, a three-helix structure at the nucleoprotein C-terminus that has been conserved over 50 years of virus evolution. Engagement with these sdAbs gave the first crystal structure of the nucleoprotein C-terminus and identified an epitope that should be useful for diagnostic purposes and, possibly, intrabody-based countermeasures.</AbstractText>
+		<AbstractText Label="Final Thoughts" NlmCategory="UNASSIGNED">Single-domain antibodies, once considered immunological oddities of minor academic interest, have become critical tools in fundamental research as well as in the design of biologic drugs. Regulatory approval of the first sdAb-based drug (anti-vWF caplacizumab) is expected shortly, possibly in 2018, and may substantially alter perceptions and attitudes toward these molecules in the medical and scientific communities. The editors would like to thank all contributors for the many excellent submissions to this Research Topic, as well as the reviewers and the Frontiers in Immunology editorial office.</AbstractText>
+	    </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Henry</LastName>
+                    <ForeName>Kevin A</ForeName>
+                    <Initials>KA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Human Health Therapeutics Research Centre, National Research Council Canada, Ottawa, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MacKenzie</LastName>
+                    <ForeName>C Roger</ForeName>
+                    <Initials>CR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Human Health Therapeutics Research Centre, National Research Council Canada, Ottawa, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Environmental Sciences, University of Guelph, Guelph, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016421">Editorial</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Front Immunol</MedlineTA>
+            <NlmUniqueID>101560960</NlmUniqueID>
+            <ISSNLinking>1664-3224</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007143">Immunoglobulin Heavy Chains</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007147">Immunoglobulin Light Chains</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007135">Immunoglobulin Variable Region</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D061905">Single-Domain Antibodies</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007143" MajorTopicYN="N">Immunoglobulin Heavy Chains</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007147" MajorTopicYN="N">Immunoglobulin Light Chains</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007135" MajorTopicYN="N">Immunoglobulin Variable Region</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015202" MajorTopicYN="N">Protein Engineering</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061905" MajorTopicYN="N">Single-Domain Antibodies</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">antibody discovery</Keyword>
+            <Keyword MajorTopicYN="Y">antibody engineering</Keyword>
+            <Keyword MajorTopicYN="Y">diagnostic antibody</Keyword>
+            <Keyword MajorTopicYN="Y">single-domain antibody</Keyword>
+            <Keyword MajorTopicYN="Y">therapeutic antibody</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29410670</ArticleId>
+            <ArticleId IdType="doi">10.3389/fimmu.2018.00041</ArticleId>
+            <ArticleId IdType="pmc">PMC5787064</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nature. 1989 Oct 12;341(6242):544-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2677748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1995 Mar 9;374(6518):168-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7877689</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1993 Jun 3;363(6428):446-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8502296</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+
+</PubmedArticleSet>

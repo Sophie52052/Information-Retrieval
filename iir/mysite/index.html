@@ -1,0 +1,77 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+        <!-- Image and text -->
+<nav class="navbar navbar-light bg-light">
+        <a class="navbar navbar-dark " href="#">
+         IIR COURSE
+        </a>
+      </nav>
+        
+        <ul class="nav justify-content-end">
+                <li class="nav-item">
+                  <a class="nav-link active" href="../">Home</a>
+                </li>
+                <!-- <li class="nav-item">
+                  <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                </li> -->
+              </ul>
+    <div class="row">
+        <div class="col-sm-6">
+            
+                <form class="form-group" action="up/" method="post" enctype="multipart/form-data">
+                    <div class="card">
+                        <div class="card-header">
+                            Select XML file to upload:
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Upload File</h5>
+                            {% csrf_token %}
+                            <input class="form-control-file" type="file" name="fileToUpload" id="fileToUpload">
+                            <br><input class="btn btn-primary" type="submit" value="Upload" name="submit">
+    
+                        </div>
+    
+    
+                    </div>
+                </form>
+        </div>
+        <div class="col-sm-6">
+            
+                <form class="form-group" action="up/" method="post" enctype="multipart/form-data">
+                    <div class="card">
+                        <div class="card-header">
+                            Select JSON file to upload:
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Upload File</h5>
+                            {% csrf_token %}
+                            <input class="form-control-file" type="file" name="fileToUpload" id="fileToUpload">
+                            <br><input class="btn btn-primary" type="submit" value="Upload" name="submit">
+    
+                        </div>
+    
+    
+                    </div>
+                </form>
+        </div>
+    </div>
+    
+
+</body>
+
+</html>
